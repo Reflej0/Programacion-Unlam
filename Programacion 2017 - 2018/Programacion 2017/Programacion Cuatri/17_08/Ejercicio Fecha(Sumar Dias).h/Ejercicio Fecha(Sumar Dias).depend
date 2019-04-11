@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1502980513 source:c:\users\laboratorios\desktop\ejercicio fecha(sumar dias)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1502980266 source:c:\users\laboratorios\desktop\ejercicio fecha(sumar dias)\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1502980507 c:\users\laboratorios\desktop\ejercicio fecha(sumar dias)\fecha.h
+
+1502980266 c:\users\laboratorios\desktop\ejercicio fecha(sumar dias)\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1502980266 source:c:\users\juanjo\onedrive\programacion cuatri\17_08\ejercicio fecha(sumar dias).h\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1502980507 c:\users\juanjo\onedrive\programacion cuatri\17_08\ejercicio fecha(sumar dias).h\fecha.h
+
+1502980513 source:c:\users\juanjo\onedrive\programacion cuatri\17_08\ejercicio fecha(sumar dias).h\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+

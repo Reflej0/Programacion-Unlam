@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518301486 source:c:\users\juanjo\desktop\final verano\10_02 cola circular dinamica\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1518301365 c:\users\juanjo\desktop\final verano\10_02 cola circular dinamica\cola.h
+
+1518301112 source:c:\users\juanjo\desktop\final verano\10_02 cola circular dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

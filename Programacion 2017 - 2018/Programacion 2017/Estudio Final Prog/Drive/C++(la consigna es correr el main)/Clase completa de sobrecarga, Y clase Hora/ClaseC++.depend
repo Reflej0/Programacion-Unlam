@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1478030770 source:c:\users\laboratorios.unlmlab.000\desktop\clasec++\hora.cpp
+	"Hora.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+
+1478030874 c:\users\laboratorios.unlmlab.000\desktop\clasec++\hora.h
+
+1478029762 source:c:\users\laboratorios.unlmlab.000\desktop\clasec++\main.cpp
+	"Hora.h"
+
+1478612272 source:i:\proyectos c\segundo parcial\proyectos c++\clasec++\hora.cpp
+	"Hora.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+
+1478612272 i:\proyectos c\segundo parcial\proyectos c++\clasec++\hora.h
+
+1478611484 source:i:\proyectos c\segundo parcial\proyectos c++\clasec++\main.cpp
+	"Hora.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1478637360 source:e:\proyectos c\segundo parcial\proyectos c++\clasec++\main.cpp
+	"Hora.h"
+	<stdlib.h>
+	<stdio.h>
+
+1478638394 e:\proyectos c\segundo parcial\proyectos c++\clasec++\hora.h
+	<iostream>
+
+1478637476 source:e:\proyectos c\segundo parcial\proyectos c++\clasec++\hora.cpp
+	"Hora.h"
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+
+1478639086 source:k:\clasec++\hora.cpp
+	"Hora.h"
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+
+1478638638 k:\clasec++\hora.h
+	<iostream>
+
+1478637360 source:k:\clasec++\main.cpp
+	"Hora.h"
+	<stdlib.h>
+	<stdio.h>
+

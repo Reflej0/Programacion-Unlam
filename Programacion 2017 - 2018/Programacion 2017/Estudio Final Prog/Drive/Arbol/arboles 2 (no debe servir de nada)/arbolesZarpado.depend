@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1481294592 source:c:\users\dmem2\desktop\arboleszarpado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parametros.h"
+
+1481294592 c:\users\dmem2\desktop\arboleszarpado\parametros.h
+
+1481337070 source:c:\users\dmem2\google drive\programacion\arboleszarpado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parametros.h"
+
+1481336343 c:\users\dmem2\google drive\programacion\arboleszarpado\parametros.h
+
+1481338018 source:c:\users\dmem2\google drive\programacion\arboleszarpado\parametros.c
+	"parametros.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

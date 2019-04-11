@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511297541 source:c:\facu\programacion2\otra practica2\complejos1\main.cpp
+	<iostream>
+	"Complejos.h"
+
+1511297564 c:\facu\programacion2\otra practica2\complejos1\include\complejos.h
+	<iostream>
+
+1511298010 source:c:\facu\programacion2\otra practica2\complejos1\src\complejos.cpp
+	"Complejos.h"
+

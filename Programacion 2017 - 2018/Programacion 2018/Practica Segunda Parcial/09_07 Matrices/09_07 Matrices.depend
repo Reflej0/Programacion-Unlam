@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1531170282 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\09_07 matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1531170229 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\09_07 matrices\matrices.h
+
+1531170569 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\09_07 matrices\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1533180018 source:c:\users\juanjo\desktop\unlam\matieras aprobadas\programacion 2017 - 2018\programacion 2018\practica segunda parcial\09_07 matrices\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1531170229 c:\users\juanjo\desktop\unlam\matieras aprobadas\programacion 2017 - 2018\programacion 2018\practica segunda parcial\09_07 matrices\matrices.h
+
+1533179995 source:c:\users\juanjo\desktop\unlam\matieras aprobadas\programacion 2017 - 2018\programacion 2018\practica segunda parcial\09_07 matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+

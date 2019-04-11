@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524430774 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\08_04 ejercicio matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1524430774 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\08_04 ejercicio matrices\matrices.h
+
+1524431480 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\08_04 ejercicio matrices\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+

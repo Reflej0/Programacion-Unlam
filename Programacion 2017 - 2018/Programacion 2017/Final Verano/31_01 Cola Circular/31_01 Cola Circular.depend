@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517441470 source:c:\users\juanjo\desktop\final verano\31_01 cola circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1517441460 c:\users\juanjo\desktop\final verano\31_01 cola circular\cola.h
+

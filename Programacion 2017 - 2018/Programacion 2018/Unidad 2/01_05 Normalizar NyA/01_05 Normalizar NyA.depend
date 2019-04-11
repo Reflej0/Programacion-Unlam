@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525190466 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\01_05 normalizar nya\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+

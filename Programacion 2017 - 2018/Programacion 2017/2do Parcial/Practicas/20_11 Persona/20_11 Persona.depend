@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1511193633 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\20_11 persona\cadenas.cpp
+	"cadenas.h"
+
+1511193517 c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\20_11 persona\cadenas.h
+	<iostream>
+	<string.h>
+
+1511191906 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\20_11 persona\fecha.cpp
+	"fecha.h"
+
+1511011834 c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\20_11 persona\fecha.h
+	<iostream>
+
+1511195454 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\20_11 persona\main.cpp
+	<iostream>
+	<istream>
+	"persona.h"
+	"fecha.h"
+	"cadenas.h"
+
+1511195730 c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\20_11 persona\persona.h
+	"fecha.h"
+	"cadenas.h"
+	<iostream>
+	<istream>
+
+1511195839 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\20_11 persona\persona.cpp
+	"fecha.h"
+	"cadenas.h"
+	"persona.h"
+

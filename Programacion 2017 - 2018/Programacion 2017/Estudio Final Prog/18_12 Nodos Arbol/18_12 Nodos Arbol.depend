@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513600967 source:c:\users\juanjo\desktop\estudio final prog\18_12 nodos arbol\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1513600243 c:\users\juanjo\desktop\estudio final prog\18_12 nodos arbol\arbol.h
+
+1513600562 source:c:\users\juanjo\desktop\estudio final prog\18_12 nodos arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+

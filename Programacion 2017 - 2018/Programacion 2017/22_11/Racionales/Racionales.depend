@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1511311339 source:c:\facu\programacion2\otra practica2\racionales\main.cpp
+	<iostream>
+	"Racional.h"
+
+1511311923 c:\facu\programacion2\otra practica2\racionales\include\racional.h
+	<iostream>
+	"Euclides.h"
+
+1511308153 c:\facu\programacion2\otra practica2\racionales\include\euclides.h
+	<iostream>
+
+1511312160 source:c:\facu\programacion2\otra practica2\racionales\src\euclides.cpp
+	"Euclides.h"
+
+1511311923 source:c:\facu\programacion2\otra practica2\racionales\src\racional.cpp
+	"Racional.h"
+

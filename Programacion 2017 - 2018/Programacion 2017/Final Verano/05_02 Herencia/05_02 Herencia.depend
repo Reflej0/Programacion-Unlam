@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1517879892 source:c:\users\juanjo\desktop\final verano\05_02 herencia\main.cpp
+	<iostream>
+	"rectangle.h"
+	"triangle.h"
+
+1517879781 c:\users\juanjo\desktop\final verano\05_02 herencia\rectangle.h
+	"shape.h"
+
+1517879838 c:\users\juanjo\desktop\final verano\05_02 herencia\shape.h
+
+1517879781 c:\users\juanjo\desktop\final verano\05_02 herencia\triangle.h
+	"shape.h"
+
+1517879750 source:c:\users\juanjo\desktop\final verano\05_02 herencia\rectangle.cpp
+	<iostream>
+	"rectangle.h"
+
+1517879398 source:c:\users\juanjo\desktop\final verano\05_02 herencia\shape.cpp
+	<iostream>
+	"shape.h"
+
+1517879298 source:c:\users\juanjo\desktop\final verano\05_02 herencia\triangle.cpp
+	<iostream>
+	"triangle.h"
+

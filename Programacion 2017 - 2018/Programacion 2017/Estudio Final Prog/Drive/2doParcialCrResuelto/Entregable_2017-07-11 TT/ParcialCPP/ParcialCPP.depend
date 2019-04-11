@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1499793739 source:c:\users\laboratorios\desktop\entregable_2017-07-11 tt\parcialcpp\main.cpp
+	"Racional.h"
+
+1499804142 c:\users\laboratorios\desktop\entregable_2017-07-11 tt\parcialcpp\racional.h
+	<iostream>
+
+1499803948 source:c:\users\laboratorios\desktop\entregable_2017-07-11 tt\parcialcpp\racional.cpp
+	"Racional.h"
+

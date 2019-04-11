@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513528489 source:c:\users\juanjo\desktop\estudio final prog\17_12 conversiones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

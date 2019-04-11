@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523726707 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\14_04 string.h\_string.c
+	<stdio.h>
+	<stdlib.h>
+	"_string.h"
+
+1523726514 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\14_04 string.h\_string.h
+
+1523726693 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\14_04 string.h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"_string.h"
+

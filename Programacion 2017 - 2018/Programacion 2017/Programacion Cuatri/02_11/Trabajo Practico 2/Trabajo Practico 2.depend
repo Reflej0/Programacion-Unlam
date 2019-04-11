@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1509247870 source:c:\users\laboratorios\desktop\trabajo practico 2\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cola.h"
+	"indice.h"
+	"def.h"
+
+1509247870 c:\users\laboratorios\desktop\trabajo practico 2\lista.h
+	"def.h"
+
+1509371029 c:\users\laboratorios\desktop\trabajo practico 2\def.h
+	"reg_ind.h"
+
+1509370910 c:\users\laboratorios\desktop\trabajo practico 2\reg_ind.h
+
+1509247870 c:\users\laboratorios\desktop\trabajo practico 2\cola.h
+	"def.h"
+
+1509370942 c:\users\laboratorios\desktop\trabajo practico 2\indice.h
+	"cola.h"
+	"lista.h"
+	"reg_ind.h"
+
+1509247870 source:c:\users\laboratorios\desktop\trabajo practico 2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1509545685 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"indice.h"
+	"def.h"
+
+1509247870 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2\lista.h
+	"def.h"
+
+1509371029 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2\def.h
+	"reg_ind.h"
+
+1509370910 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2\reg_ind.h
+
+1509544448 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2\indice.h
+	"lista.h"
+	"reg_ind.h"
+
+1509545121 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1509545233 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"indice.h"
+	"def.h"
+	"lista.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1530980027 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\07_06 cola circular\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1530979017 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\07_06 cola circular\cola.h
+
+1530980117 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\07_06 cola circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518978020 source:c:\users\juanjo\desktop\final verano\18_02 fecha\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1518975438 c:\users\juanjo\desktop\final verano\18_02 fecha\fecha.h
+
+1518977685 source:c:\users\juanjo\desktop\final verano\18_02 fecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+

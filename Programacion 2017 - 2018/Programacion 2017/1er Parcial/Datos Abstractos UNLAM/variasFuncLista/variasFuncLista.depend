@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507673208 source:c:\facu\programacion2\2c 2017\variasfunclista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1507686196 c:\facu\programacion2\2c 2017\variasfunclista\header.h
+
+1507688246 source:c:\facu\programacion2\2c 2017\variasfunclista\func.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

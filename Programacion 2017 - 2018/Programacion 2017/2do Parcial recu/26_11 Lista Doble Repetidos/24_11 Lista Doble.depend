@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1511550782 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\24_11 lista doble\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1511549246 c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\24_11 lista doble\lista.h
+
+1511550482 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\24_11 lista doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1511700194 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 lista doble repetidos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1511699249 c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 lista doble repetidos\lista.h
+
+1511700100 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 lista doble repetidos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

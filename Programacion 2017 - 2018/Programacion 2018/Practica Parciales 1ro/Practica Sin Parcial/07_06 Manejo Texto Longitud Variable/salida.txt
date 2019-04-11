@@ -1,0 +1,3 @@
+123       Juan, Tocino        24.30
+4345      Albert              -20.30
+1         Resi                11.10

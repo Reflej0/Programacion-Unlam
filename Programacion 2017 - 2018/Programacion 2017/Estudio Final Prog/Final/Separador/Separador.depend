@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513349801 source:c:\users\juanjo\desktop\estudio final prog\final\separador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"separador.h"
+
+1513349805 c:\users\juanjo\desktop\estudio final prog\final\separador\separador.h
+
+1513349595 source:c:\users\juanjo\desktop\estudio final prog\final\separador\separador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"separador.h"
+

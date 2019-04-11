@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1526955245 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\21_05 cola estatica generica\cola.c
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1526951697 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\21_05 cola estatica generica\cola.h
+
+1526954111 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\21_05 cola estatica generica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

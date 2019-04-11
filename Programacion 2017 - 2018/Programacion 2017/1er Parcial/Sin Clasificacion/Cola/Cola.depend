@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1504468770 source:c:\users\juanjo\desktop\unlam\programacion\cola\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1504468842 c:\users\juanjo\desktop\unlam\programacion\cola\cola.h
+
+1504469029 source:c:\users\juanjo\desktop\unlam\programacion\cola\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

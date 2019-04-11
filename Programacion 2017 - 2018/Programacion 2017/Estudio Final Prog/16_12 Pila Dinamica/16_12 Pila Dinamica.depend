@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513448113 source:c:\users\juanjo\desktop\estudio final prog\16_12 pila dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1512563801 c:\users\juanjo\desktop\estudio final prog\16_12 pila dinamica\pila.h
+
+1513448049 source:c:\users\juanjo\desktop\estudio final prog\16_12 pila dinamica\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

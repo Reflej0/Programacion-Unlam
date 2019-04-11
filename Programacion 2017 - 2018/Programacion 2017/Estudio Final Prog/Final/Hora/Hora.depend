@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513348698 source:c:\users\juanjo\desktop\estudio final prog\final\hora\hora.cpp
+	<iostream>
+	<stdlib.h>
+	"hora.h"
+
+1513348373 c:\users\juanjo\desktop\estudio final prog\final\hora\hora.h
+
+1513378825 source:c:\users\juanjo\desktop\estudio final prog\final\hora\main.cpp
+	<iostream>
+	<stdlib.h>
+	"hora.h"
+

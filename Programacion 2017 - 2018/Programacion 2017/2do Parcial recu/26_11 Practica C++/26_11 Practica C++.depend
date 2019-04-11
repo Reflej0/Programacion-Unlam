@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511719588 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 practica c++\main.cpp
+	<iostream>
+	"prueba.h"
+
+1511719727 c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 practica c++\prueba.h
+	<iostream>
+
+1511719743 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 practica c++\prueba.cpp
+	<iostream>
+	"prueba.h"
+

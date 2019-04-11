@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510932278 source:c:\facu\programacion2\otra practica2\cola_circular_estatica\cola_circular_estatica.c
+	<stdio.h>
+	<stdlib.h>
+	"cola_circular_estatica.h"
+
+1510933022 c:\facu\programacion2\otra practica2\cola_circular_estatica\cola_circular_estatica.h
+
+1510932597 source:c:\facu\programacion2\otra practica2\cola_circular_estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola_circular_estatica.h"
+

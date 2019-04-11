@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1506551933 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1506551689 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\header.h
+	"fecha.h"
+
+1506550725 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1506381479 source:c:\users\juanjo\onedrive\programacion\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+	"fecha.h"
+
+1506380807 c:\users\juanjo\onedrive\programacion\trabajo practico 1\header.h
+	"fecha.h"
+
+1506381085 source:c:\users\juanjo\onedrive\programacion\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1506378785 source:c:\users\juanjo\onedrive\programacion\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506378782 c:\users\juanjo\onedrive\programacion\trabajo practico 1\fecha.h
+
+1506547522 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506547510 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\fecha.h
+
+1506562786 source:c:\users\laboratorios\downloads\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506562786 c:\users\laboratorios\downloads\trabajo practico 1\fecha.h
+
+1506562788 source:c:\users\laboratorios\downloads\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1506562788 c:\users\laboratorios\downloads\trabajo practico 1\header.h
+	"fecha.h"
+
+1506562788 source:c:\users\laboratorios\downloads\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1506562786 source:c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506562786 c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\fecha.h
+
+1506888813 source:c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1506562788 c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\header.h
+	"fecha.h"
+
+1506607799 source:c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+

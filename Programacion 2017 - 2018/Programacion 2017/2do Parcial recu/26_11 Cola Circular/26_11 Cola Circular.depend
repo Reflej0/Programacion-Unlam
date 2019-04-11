@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511705942 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 cola circular\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1511705467 c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 cola circular\cola.h
+
+1511705477 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 cola circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

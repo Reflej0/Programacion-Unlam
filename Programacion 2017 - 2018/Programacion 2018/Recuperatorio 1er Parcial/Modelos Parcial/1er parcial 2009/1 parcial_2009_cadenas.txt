@@ -1,0 +1,89 @@
+#include <stdio.h>
+#include <conio.h>
+#include <string.h>
+
+char *  modifica_cadena( char * );
+
+void main()
+{
+char cadena[30];
+
+   printf( "Ingrese la cadena: " );
+   gets( cadena );
+
+   printf( "La cadena es : %s", modifica_cadena( cadena ) );
+   getch();
+}
+
+
+char *  modifica_cadena( char *cadena )
+{
+char *aux = cadena, *aux2 = cadena, car;
+int cant;
+
+	cant = strlen( aux2 );
+
+   aux += ( cant-1 );
+   while( *aux == ' ' )
+   	aux --;
+   *( aux + 1 ) = '\0';
+
+   aux = aux2;
+
+   while( *aux == ' ' )
+   	aux ++;
+   if( *aux )
+   	{
+   	car = *aux;
+   	aux ++;
+      }
+
+   while( *aux )
+   	{
+      while( *aux == car )
+			aux ++;
+      if( *aux )
+      	{
+         *aux2 = *aux;
+         aux2 ++;
+         aux ++;
+         }
+      }
+   *aux2 = '\0';
+   return( cadena );
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

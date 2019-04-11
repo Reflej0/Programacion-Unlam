@@ -1,0 +1,49 @@
+Productos
+{JABALI,    ,  jABoN   , ,,,!!   aLI     ,, 100}
+{PANCHIS,  --;:  paNChoS,chISaP           , 50}
+{ACERRIN,  --;:  aCEite  --; , !!!!! riNOCerONTe          , 80}
+{TOSTIN, --;:  tosTADas!!!  ,,,,, tINO!!!               , 120}
+{PAPERA, Papas Perales, 70}
+{MEDICINA, ::::meDIAlUNas   ,,,  ]]]] cINAtrA   , 130}
+{FIDEL, ......fIDEoS.....lIrA......, 40}
+{ARRORRO,   aRRoz   ,,,  ahoRRO  ,,, dOblE  ,, cARolinA  , 30}
+{POLCA, ::::poLENta   ,,,  ]]]] poL ,,,  CAniggia,,,   , 140}
+{POROSO, ......poROtoS.....de......sOJa, 60}
+
+Lista movimientos
+[ACERRIN, -40]
+[ARRORRO, -100]
+[FIDEL, -50]
+[JABALI, -80]
+[MEDICINA, -90]
+[PANCHIS, -90]
+[PAPERA, -60]
+[POLCA, -50]
+[POROSO, 0]
+[TOSTIN, -110]
+
+Cola Mov. sin Stock
+[ARRORRO, -100]
+[FIDEL, -50]
+[PANCHIS, -90]
+
+Productos
+{JABALI, Jabon Ali, 20}
+{PANCHIS, Panchos Chisap, 50}
+{ACERRIN, Aceite Rinoceronte, 40}
+{TOSTIN, Tostadas Tino, 10}
+{PAPERA, Papas Perales Tino, 10}
+{MEDICINA, Medialunas Cinatra, 40}
+{FIDEL, Fideos Lira, 40}
+{ARRORRO, Arroz Ahorro Doble Carolina, 30}
+{POLCA, Polenta Pol Caniggia, 90}
+{POROSO, Porotos De Soja, 60}
+
+Productos sin Stock
+ARRORRO|-100
+FIDEL|-50
+PANCHIS|-90
+
+
+Process returned 0 (0x0)   execution time : 0.094 s
+Press any key to continue.

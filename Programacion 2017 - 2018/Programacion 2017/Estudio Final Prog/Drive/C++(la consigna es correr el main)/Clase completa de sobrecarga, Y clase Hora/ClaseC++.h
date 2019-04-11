@@ -1,0 +1,6 @@
+#ifndef CLASEC++_H_INCLUDED
+#define CLASEC++_H_INCLUDED
+
+
+
+#endif // CLASEC++_H_INCLUDED

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503585153 source:c:\users\laboratorios\desktop\clase_18_8_17\programacion\ejercicio 3 - euler\comparador de fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comparador_fechas.h"
+
+1503585062 c:\users\laboratorios\desktop\clase_18_8_17\programacion\ejercicio 3 - euler\comparador de fechas\comparador_fechas.h
+
+1503585460 source:c:\users\laboratorios\desktop\clase_18_8_17\programacion\ejercicio 3 - euler\comparador de fechas\comparador_fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"comparador_fechas.h"
+

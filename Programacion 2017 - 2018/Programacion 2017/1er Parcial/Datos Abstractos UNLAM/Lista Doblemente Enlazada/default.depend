@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1487903782 source:c:\facu\programacion2\cualquiera\ejs20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1487903782 c:\facu\programacion2\cualquiera\ejs20\header.h
+
+1488116302 source:c:\facu\programacion2\cualquiera\ejs20\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488124108 source:c:\facu\programacion2\cualquiera\ejs20.1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488123682 c:\facu\programacion2\cualquiera\ejs20.1\header.h
+
+1488124340 source:c:\facu\programacion2\cualquiera\ejs20.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488140467 source:c:\facu\programacion2\cualquiera\ejs21\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488140468 c:\facu\programacion2\cualquiera\ejs21\header.h
+
+1488140537 source:c:\facu\programacion2\cualquiera\ejs21\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

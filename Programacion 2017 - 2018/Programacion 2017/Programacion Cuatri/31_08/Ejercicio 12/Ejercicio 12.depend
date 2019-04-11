@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504189448 source:c:\users\laboratorios\desktop\ejercicio 12\ejercicio12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio12.h"
+
+1504189585 c:\users\laboratorios\desktop\ejercicio 12\ejercicio12.h
+
+1504189564 source:c:\users\laboratorios\desktop\ejercicio 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio12.h"
+

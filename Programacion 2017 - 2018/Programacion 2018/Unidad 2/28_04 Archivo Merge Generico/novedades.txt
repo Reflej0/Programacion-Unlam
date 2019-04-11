@@ -1,0 +1,6 @@
+2900000|Oscar Ruffino|8|A
+3100000|Carolina Perez|5|A
+3150000|Rodrigo Escobar|20|M
+3500000|Cristian Rivas|11|B
+4200000|Pedro Lozano|3|B
+4300000|Lautaro Silva|10|A

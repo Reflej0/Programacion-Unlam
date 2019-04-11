@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1510194460 source:c:\facu\programacion2\2c 2017\fecha_c++\func2.cpp
+	"header.h"
+	<iostream>
+
+1510194964 c:\facu\programacion2\2c 2017\fecha_c++\header.h
+	<iostream>
+
+1510193471 source:c:\facu\programacion2\2c 2017\fecha_c++\header.h
+	<iostream>
+
+1510193570 source:c:\facu\programacion2\2c 2017\fecha_c++\main.cpp
+	<iostream>
+	"header.h"
+
+1510238077 source:c:\users\laboratorios\desktop\fecha_c++\main.cpp
+	<iostream>
+	"header.h"
+
+1510237241 c:\users\laboratorios\desktop\fecha_c++\header.h
+	<iostream>
+
+1510237974 source:c:\users\laboratorios\desktop\fecha_c++\func2.cpp
+	"header.h"
+	<iostream>
+

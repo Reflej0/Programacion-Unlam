@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517674115 source:c:\users\juanjo\desktop\final verano\03_02 lista doble\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1517673642 c:\users\juanjo\desktop\final verano\03_02 lista doble\lista.h
+
+1517674137 source:c:\users\juanjo\desktop\final verano\03_02 lista doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1528070739 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica parciales\practica sin parcial\03_06 algoritmo seleccion generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1528072522 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica parciales\practica sin parcial\03_06 algoritmo seleccion generico\header.h
+
+1528073264 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica parciales\practica sin parcial\03_06 algoritmo seleccion generico\seleccion.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"header.h"
+

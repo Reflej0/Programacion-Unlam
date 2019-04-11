@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1487903782 source:c:\facu\programacion2\cualquiera\ejs20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1487903782 c:\facu\programacion2\cualquiera\ejs20\header.h
+
+1488116302 source:c:\facu\programacion2\cualquiera\ejs20\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488124108 source:c:\facu\programacion2\cualquiera\ejs20.1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488123682 c:\facu\programacion2\cualquiera\ejs20.1\header.h
+
+1488124340 source:c:\facu\programacion2\cualquiera\ejs20.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488140467 source:c:\facu\programacion2\cualquiera\ejs21\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488140468 c:\facu\programacion2\cualquiera\ejs21\header.h
+
+1488140537 source:c:\facu\programacion2\cualquiera\ejs21\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488167877 source:c:\facu\programacion2\cualquiera\ejs22\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488144747 c:\facu\programacion2\cualquiera\ejs22\header.h
+
+1488164427 source:c:\facu\programacion2\cualquiera\ejs22\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488211243 source:c:\facu\programacion2\cualquiera\ejs23\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488210264 c:\facu\programacion2\cualquiera\ejs23\header.h
+
+1488211322 source:c:\facu\programacion2\cualquiera\ejs23\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488212804 source:c:\facu\programacion2\cualquiera\ejs24\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488212604 c:\facu\programacion2\cualquiera\ejs24\header.h
+
+1488212267 source:c:\facu\programacion2\cualquiera\ejs24\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488227697 source:c:\facu\programacion2\cualquiera\ejs25\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488227697 c:\facu\programacion2\cualquiera\ejs25\header.h
+
+1488227725 source:c:\facu\programacion2\cualquiera\ejs25\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488236310 source:c:\facu\programacion2\cualquiera\ejs26\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1488236945 c:\facu\programacion2\cualquiera\ejs26\header.h
+
+1488236945 source:c:\facu\programacion2\cualquiera\ejs26\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

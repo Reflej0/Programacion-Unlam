@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1404485495 source:c:\documents and settings\lab70\escritorio\clase cadena\cadena\cadena.cpp
+	"Cadena.h"
+
+1404483733 c:\documents and settings\lab70\escritorio\clase cadena\cadena\cadena.h
+	<iostream>
+	<string.h>
+
+1404485116 source:c:\documents and settings\lab70\escritorio\clase cadena\cadena\main.cpp
+	"Cadena.h"
+
+1404485495 source:e:\dropbox\còdigos\c++\clase cadena\cadena\cadena.cpp
+	"Cadena.h"
+
+1404483733 e:\dropbox\còdigos\c++\clase cadena\cadena\cadena.h
+	<iostream>
+	<string.h>
+
+1404485116 source:e:\dropbox\còdigos\c++\clase cadena\cadena\main.cpp
+	"Cadena.h"
+

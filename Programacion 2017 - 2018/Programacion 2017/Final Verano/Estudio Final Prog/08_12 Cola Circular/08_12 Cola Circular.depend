@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512740313 source:c:\users\juanjo\desktop\estudio final prog\08_12 cola circular\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1512738933 c:\users\juanjo\desktop\estudio final prog\08_12 cola circular\cola.h
+
+1512738953 source:c:\users\juanjo\desktop\estudio final prog\08_12 cola circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

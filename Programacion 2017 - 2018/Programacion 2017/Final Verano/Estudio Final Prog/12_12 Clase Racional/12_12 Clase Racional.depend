@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513091399 source:c:\users\juanjo\desktop\estudio final prog\12_12 clase racional\main.cpp
+	<iostream>
+	"racional.h"
+
+1513091048 c:\users\juanjo\desktop\estudio final prog\12_12 clase racional\racional.h
+	<iostream>
+
+1513091937 source:c:\users\juanjo\desktop\estudio final prog\12_12 clase racional\racional.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"racional.h"
+

@@ -1,0 +1,107 @@
+01/12/2015 23:16:57,557: D* s*ly r* 'p*\s.0.Facturas.Facturas.out'
+01/12/2015 23:16:57,505: Q* 'Facturas' on server 'ARCHIVE' ...
+arsdoc get -h ARCHIVE -u admin -p demandon -G "Facturas" -dp* -g -N -c -P -v -i "where factura = '70002-00129972/7'" -o s
+Procediendo a generar (1) PDF(s) - El get terminó con error: 0
+01/12/2015 23:16:16,461: Connection cannot be established for the ARCHIVE server
+(1)
+01/12/2015 23:15:41,123: A* login for userid 'admin' on server 'ARCHIVE' ...
+arsdoc get -h ARCHIVE -u admin -p demandon -G "Facturas" -dp* -g -N -c -P -v -i "where factura = '70002-00129971/7'" -o s
+01/12/2015 23:15:41,163: Search s*
+01/12/2015 23:15:41,299: q* 'where factura = '70002-00129971/7''
+Esperando 40000 milisegundos...
+01/12/2015 23:16:57,537: Search s*
+01/12/2015 23:15:56,387: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:41,017: A* login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:16:16,459: Login uns*
+01/12/2015 23:16:57,533: q* 'where factura = '70002-00129971/7''
+01/12/2015 23:15:56,405: A* login for userid 'admin' on server 'ARCHIVE' ...
+arsdoc get -h ARCHIVE -u admin -p demandon -G "Facturas" -dp* -g -N -c -P -v -i "where factura = '70002-00129969/4'" -o s
+01/12/2015 23:15:41,159: q* 'where factura = '70002-00129970/2''
+Procediendo a generar (1) PDF(s) - El get terminó con error: 0
+01/12/2015 23:15:41,019: Login s*
+01/12/2015 23:16:57,553: (1): Retrieving D* for userid 'admin' ...
+01/12/2015 23:15:46,339: A* login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:46,347: Login uns*
+01/12/2015 23:15:41,169: 1 D*(s) have been queried. Retrieving 1 D*(s).
+01/12/2015 23:15:41,277: Query s*
+01/12/2015 23:16:57,593: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:41,243: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:56,425: arsdoc completed.
+01/12/2015 23:15:41,039: Query s*
+01/12/2015 23:15:41,121: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129970/2' -o s
+01/12/2015 23:15:41,197: D* s*ly r* 'p*\s.0.Facturas.Facturas.out'
+01/12/2015 23:16:57,677: (1): Retrieving D* for userid 'admin' ...
+Esperando 10000 milisegundos...
+01/12/2015 23:15:46,363: arsdoc completed.
+01/12/2015 23:15:41,015: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129969/4' -o s
+Procediendo a generar (1) PDF(s) - El get terminó con error: 0
+01/12/2015 23:15:56,409: Login uns*
+01/12/2015 23:15:41,289: Searching for D*s in 'Facturas' ...
+01/12/2015 23:16:16,455: A* login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:16:57,663: Search s*
+01/12/2015 23:15:56,421: Connection cannot be established for the ARCHIVE server
+01/12/2015 23:16:57,543: 1 D*(s) have been queried. Retrieving 1 D*(s).
+01/12/2015 23:16:16,449: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:15:41,119: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:41,153: Searching for D*s in 'Facturas' ...
+01/12/2015 23:15:41,143: Query s*
+
+01/12/2015 23:15:41,081: D* s*ly r* 'p*\s.0.Facturas.Facturas.out'
+01/12/2015 23:16:57,643: Searching for D*s in 'Facturas' ...
+01/12/2015 23:15:56,399: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+70002-00129969/4,1900/0-9510-0120410/7,1900,23,02/04,29/04/2004,1900,13/05/2004,RESIDENCIAL     ,RES,BERNAZZA MARIA F.             ,DIAG 075 651 P° PB D° 2                           
+01/12/2015 23:15:41,133: Login s*
+arsdoc get -h ARCHIVE -u admin -p demandon -G "Facturas" -dp* -g -N -c -P -v -i "where factura = '70002-00129970/2'" -o s
+01/12/2015 23:15:41,317: arsdoc completed.
+Esperando 5000 milisegundos...
+01/12/2015 23:16:57,525: Searching for D*s in 'Facturas' ...
+01/12/2015 23:15:41,051: q* 'where factura = '70002-00129969/4''
+70002-00129972/7,1900/0-0110-0187828/0,1900,23,02/04,29/04/2004,1900,13/05/2004,RESIDENCIAL     ,RES,RIQUELME CANDIDA CARLINA      ,DIAG 078 133                                      
+Procediendo a generar (1) PDF(s) - El get terminó con error: 0
+01/12/2015 23:15:46,329: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:16:57,693: arsdoc completed.
+01/12/2015 23:15:41,305: Search uns*
+01/12/2015 23:15:41,055: Search s*
+01/12/2015 23:16:57,621: Login s*
+01/12/2015 23:16:57,689: D* s*ly r* 'p*\s.0.Facturas.Facturas.out'
+(1)
+01/12/2015 23:16:16,465: arsdoc completed.
+01/12/2015 23:16:57,631: Query s*
+70002-00129970/2,1900/0-9406-0106689/1,1900,23,02/04,29/04/2004,1900,13/05/2004,RESIDENCIAL     ,RES,COTTEP MARIA DE               ,DIAG 075 832 P° 3                                 
+01/12/2015 23:16:57,611: A* login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,137: Q* 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,261: A* login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,067: (1): Retrieving D* for userid 'admin' ...
+01/12/2015 23:15:41,313: Connection cannot be established for the ARCHIVE server
+70002-00129971/7,1900/0-9406-0106717/1,1900,23,02/04,29/04/2004,1900,13/05/2004,RESIDENCIAL     ,RES,MACIEL E M DE                 ,DIAG 075 983                                      
+01/12/2015 23:16:57,599: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129972/7' -o s
+01/12/2015 23:16:16,443: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:16:56,493: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:15:46,355: Connection cannot be established for the ARCHIVE server
+01/12/2015 23:15:41,083: arsdoc completed.
+(1)
+01/12/2015 23:16:56,501: A* login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:16:57,503: Login s*
+01/12/2015 23:15:46,327: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:16:57,675: 1 D*(s) have been queried. Retrieving 1 D*(s).
+01/12/2015 23:15:41,179: (1): Retrieving D* for userid 'admin' ...
+01/12/2015 23:16:57,655: q* 'where factura = '70002-00129972/7''
+01/12/2015 23:15:41,249: arsdoc get -h ARCHIVE -u admin -G Facturas -d p* -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:15:41,201: arsdoc completed.
+(1)
+01/12/2015 23:15:41,027: Q* 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,005: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:16:57,517: Query s*
+01/12/2015 23:16:57,565: arsdoc completed.
+
+Esperando 20000 milisegundos...
+01/12/2015 23:15:41,061: 1 D*(s) have been queried. Retrieving 1 D*(s).
+01/12/2015 23:16:57,627: Q* 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,045: Searching for D*s in 'Facturas' ...
+
+01/12/2015 23:16:56,485: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:41,271: Q* 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,263: Login s*
+
+

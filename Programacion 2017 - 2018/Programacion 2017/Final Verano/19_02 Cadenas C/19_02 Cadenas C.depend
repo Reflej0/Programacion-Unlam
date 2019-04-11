@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519050398 source:c:\users\juanjo\desktop\final verano\19_02 cadenas c\cadenas.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1519050249 c:\users\juanjo\desktop\final verano\19_02 cadenas c\cadenas.h
+
+1519050375 source:c:\users\juanjo\desktop\final verano\19_02 cadenas c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+

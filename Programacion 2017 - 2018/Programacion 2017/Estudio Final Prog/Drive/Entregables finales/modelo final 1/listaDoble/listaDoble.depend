@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1481931714 source:c:\users\pablo\desktop\guia tps programacion\tp3\listadoble\listadoble.c
+	"listaDoble.h"
+
+1481931284 c:\users\pablo\desktop\guia tps programacion\tp3\listadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1481931376 source:c:\users\pablo\desktop\guia tps programacion\tp3\listadoble\main.c
+	"listaDoble.h"
+
+1482004410 source:c:\users\mery\desktop\final\listadoble\main.c
+	"listaDoble.h"
+
+1481931284 c:\users\mery\desktop\final\listadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1482004394 source:c:\users\mery\desktop\final\listadoble\listadoble.c
+	"listaDoble.h"
+
+1482104451 source:c:\users\dmem2\google drive\programacion\modelo final 1\listadoble\listadoble.c
+	"listaDoble.h"
+
+1481931284 c:\users\dmem2\google drive\programacion\modelo final 1\listadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1482104457 source:c:\users\dmem2\google drive\programacion\modelo final 1\listadoble\main.c
+	"listaDoble.h"
+

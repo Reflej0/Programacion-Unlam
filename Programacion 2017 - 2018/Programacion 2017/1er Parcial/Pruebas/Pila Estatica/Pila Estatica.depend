@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508095436 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\pila estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1508095360 c:\users\juanjo\desktop\unlam\programacion\pruebas\pila estatica\pila.h
+
+1508095346 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\pila estatica\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

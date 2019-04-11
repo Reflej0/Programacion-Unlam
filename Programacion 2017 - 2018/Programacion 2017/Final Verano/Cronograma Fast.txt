@@ -1,0 +1,23 @@
+07_01: Fecha y Matrices.
+20_01: Archivos, Merge, Conversiones, Cadenas.
+29_01: Pila, Cola, Lista Dinámicas.
+30_01: Pila, Cola estáticas. (Falta repasar dinámicas mas).
+31_01: Repaso Cola Dinámica, Lista. Cola Circular y Arbol.
+01_02: NADA
+02_02: NADA
+03_02: Lista Doble RAZONADO.
+04_02: C++ Sobrecarga.
+http://www.cplusplus.com/doc/tutorial/inheritance/
+05_02: C++ Herencia(básico) y ejercicio de hora c++
+06_02: NADA
+07_02: Fecha C y Cadenas C++.
+08_02: NADA
+09_02: NADA
+10_02: Cadenas(FINAL), Cola Circular, Conversiones.
+11_02: Pila, Cola Dinámicas y Listas Simple/Doble.
+12_02: Arbol, Pila, Cola estática.
+13_02: C++, Archivos (Parcial de Pan).
+16_02: Contar Nodos de Arbol, practica variada de cadena.
+------------------------------
+17_02: Repaso de lo que considere importante, ver apunte.
+18_02: Repaso de lo que considere importante, ver apunte.

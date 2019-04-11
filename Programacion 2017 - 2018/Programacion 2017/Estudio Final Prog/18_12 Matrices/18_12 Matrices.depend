@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513611776 source:c:\users\juanjo\desktop\estudio final prog\18_12 matrices\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1512314710 c:\users\juanjo\desktop\estudio final prog\18_12 matrices\matriz.h
+
+1513611363 source:c:\users\juanjo\desktop\estudio final prog\18_12 matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+

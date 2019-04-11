@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512482715 source:c:\users\juanjo\desktop\estudio final prog\05_12 cadenas\cadenas.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1512482691 c:\users\juanjo\desktop\estudio final prog\05_12 cadenas\cadenas.h
+
+1512482671 source:c:\users\juanjo\desktop\estudio final prog\05_12 cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+

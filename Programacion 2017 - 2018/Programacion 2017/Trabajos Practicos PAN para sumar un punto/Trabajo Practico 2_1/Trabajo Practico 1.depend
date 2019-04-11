@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1506551933 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1506551689 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\header.h
+	"fecha.h"
+
+1506550725 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1506381479 source:c:\users\juanjo\onedrive\programacion\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+	"fecha.h"
+
+1506380807 c:\users\juanjo\onedrive\programacion\trabajo practico 1\header.h
+	"fecha.h"
+
+1506381085 source:c:\users\juanjo\onedrive\programacion\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1506378785 source:c:\users\juanjo\onedrive\programacion\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506378782 c:\users\juanjo\onedrive\programacion\trabajo practico 1\fecha.h
+
+1506547522 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506547510 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 1\fecha.h
+
+1506562786 source:c:\users\laboratorios\downloads\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506562786 c:\users\laboratorios\downloads\trabajo practico 1\fecha.h
+
+1506562788 source:c:\users\laboratorios\downloads\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1506562788 c:\users\laboratorios\downloads\trabajo practico 1\header.h
+	"fecha.h"
+
+1506562788 source:c:\users\laboratorios\downloads\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1506562786 source:c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506562786 c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\fecha.h
+
+1506888813 source:c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1506562788 c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\header.h
+	"fecha.h"
+
+1506607799 source:c:\users\juanjo\onedrive\programacion cuatri\28_09\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1506562786 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506562786 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\fecha.h
+
+1510363024 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1510362191 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\header.h
+	"fecha.h"
+	"indice.h"
+	"def.h"
+
+1510362626 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\indice.h
+	"lista.h"
+	"reg_ind.h"
+
+1510359999 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\lista.h
+	"iterador.h"
+
+1510360162 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\iterador.h
+	"def.h"
+
+1510361822 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\def.h
+	"reg_ind.h"
+
+1509580326 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\reg_ind.h
+
+1510505978 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"indice.h"
+	<string.h>
+
+1510360504 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\iterador.c
+	<stdio.h>
+	<stdlib.h>
+	"iterador.h"
+
+1510149880 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"iterador.h"
+
+1510506048 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 2_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"header.h"
+	"indice.h"
+	"def.h"
+	"lista.h"
+

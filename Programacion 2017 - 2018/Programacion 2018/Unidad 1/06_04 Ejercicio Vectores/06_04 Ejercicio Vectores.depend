@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523242638 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\06_04 ejercicio vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1523123938 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\06_04 ejercicio vectores\vectores.h
+
+1523123995 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\06_04 ejercicio vectores\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+

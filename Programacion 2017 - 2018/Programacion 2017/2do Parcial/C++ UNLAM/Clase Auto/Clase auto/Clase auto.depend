@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1404695426 source:e:\dropbox\còdigos\c++\clase auto\clase auto\main.cpp
+	"Auto.h"
+
+1404694761 e:\dropbox\còdigos\c++\clase auto\clase auto\include\auto.h
+	<iostream>
+	<string.h>
+
+1405476319 source:e:\dropbox\còdigos\c++\clase auto\clase auto\src\auto.cpp
+	"Auto.h"
+

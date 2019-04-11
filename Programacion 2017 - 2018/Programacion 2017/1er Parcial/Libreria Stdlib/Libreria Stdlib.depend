@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505784952 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria stdlib\_stdlib.c
+	<stdio.h>
+	<stdlib.h>
+	"_stdlib.h"
+
+1505688996 c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria stdlib\_stdlib.h
+
+1505784704 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria stdlib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"_stdlib.h"
+

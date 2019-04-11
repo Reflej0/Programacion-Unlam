@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512748507 source:c:\users\juanjo\desktop\estudio final prog\08_12 lista doble\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1512740589 c:\users\juanjo\desktop\estudio final prog\08_12 lista doble\lista.h
+
+1512748435 source:c:\users\juanjo\desktop\estudio final prog\08_12 lista doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

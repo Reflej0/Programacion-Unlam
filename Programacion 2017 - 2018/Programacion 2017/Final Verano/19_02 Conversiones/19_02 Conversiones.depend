@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519052048 source:c:\users\juanjo\desktop\final verano\19_02 conversiones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

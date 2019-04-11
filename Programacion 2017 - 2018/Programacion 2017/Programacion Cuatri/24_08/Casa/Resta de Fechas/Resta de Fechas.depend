@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503782310 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\resta de fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"resta_fechas.h"
+
+1503781790 c:\users\juanjo\desktop\unlam\programacion\tp 2\resta de fechas\resta_fechas.h
+
+1503782305 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\resta de fechas\resta_fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"resta_fechas.h"
+

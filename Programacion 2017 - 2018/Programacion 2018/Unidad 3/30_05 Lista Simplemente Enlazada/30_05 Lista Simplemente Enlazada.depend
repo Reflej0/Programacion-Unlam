@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527737201 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\30_05 lista simplemente enlazada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1527737060 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\30_05 lista simplemente enlazada\lista.h
+
+1527737140 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\30_05 lista simplemente enlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

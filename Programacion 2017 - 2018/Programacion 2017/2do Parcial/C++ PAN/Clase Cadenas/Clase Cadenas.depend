@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510583088 source:c:\users\laboratorios\desktop\clase cadenas\cadenas.cpp
+	"Cadenas.h"
+
+1510583088 c:\users\laboratorios\desktop\clase cadenas\cadenas.h
+	<iostream>
+	<string.h>
+
+1510579988 source:c:\users\laboratorios\desktop\clase cadenas\main.cpp
+	<iostream>
+	"Cadenas.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513266407 source:c:\users\juanjo\desktop\estudio final prog\14_12 fecha c++\fecha.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"fecha.h"
+
+1513266358 c:\users\juanjo\desktop\estudio final prog\14_12 fecha c++\fecha.h
+	<istream>
+
+1513266475 source:c:\users\juanjo\desktop\estudio final prog\14_12 fecha c++\main.cpp
+	<iostream>
+	<istream>
+	"fecha.h"
+

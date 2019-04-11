@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505176722 source:c:\users\juanjo\desktop\unlam\programacion\burbuja_char\burbuja.c
+	<stdio.h>
+	<stdlib.h>
+	"burbuja.h"
+
+1505176539 c:\users\juanjo\desktop\unlam\programacion\burbuja_char\burbuja.h
+
+1505176684 source:c:\users\juanjo\desktop\unlam\programacion\burbuja_char\main.c
+	<stdio.h>
+	<stdlib.h>
+	"burbuja.h"
+

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1476566359 source:c:\users\mery\desktop\pre-parcial\main.c
+	".h"
+
+1476566432 c:\users\mery\desktop\pre-parcial\.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476566635 source:c:\users\mery\desktop\pre-parcial\f.c
+	".h"
+
+1476567626 source:e:\pre-parcial\f.c
+	".h"
+
+1476567626 e:\pre-parcial\.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476567996 source:e:\pre-parcial\main.c
+	".h"
+
+1476629588 source:c:\users\dmem2\desktop\pre-parcial\pre-parcial\main.c
+	".h"
+
+1476567626 c:\users\dmem2\desktop\pre-parcial\pre-parcial\.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476628868 source:c:\users\dmem2\desktop\pre-parcial\pre-parcial\f.c
+	".h"
+

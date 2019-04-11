@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508363673 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\cola dinamica alumnos\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1508363042 c:\users\juanjo\desktop\unlam\programacion\pruebas\cola dinamica alumnos\cola.h
+
+1508363796 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\cola dinamica alumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

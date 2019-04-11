@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511041826 source:c:\facu\programacion2\otra practica2\lista_doblemente_enlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1511039310 c:\facu\programacion2\otra practica2\lista_doblemente_enlazada\header.h
+
+1511042545 source:c:\facu\programacion2\otra practica2\lista_doblemente_enlazada\func.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

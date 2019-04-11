@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507488457 source:c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\cola dinamica\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+	"string.h"
+
+1507487994 c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\cola dinamica\cola.h
+
+1507488386 source:c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\cola dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

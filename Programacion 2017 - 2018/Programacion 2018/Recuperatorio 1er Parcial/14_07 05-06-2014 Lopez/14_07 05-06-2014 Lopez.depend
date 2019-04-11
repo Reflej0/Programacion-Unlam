@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531606364 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\14_07 05-06-2014 lopez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

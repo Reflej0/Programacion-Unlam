@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1531695187 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\15_07 pii_p1_2009_02_ta\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1531695293 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\15_07 pii_p1_2009_02_ta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1531695008 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\15_07 pii_p1_2009_02_ta\cola.h
+

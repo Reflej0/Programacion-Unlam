@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512483141 source:c:\users\juanjo\desktop\estudio final prog\05_11 ctype.h\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,2 @@
+@partedos.exe
+@pause

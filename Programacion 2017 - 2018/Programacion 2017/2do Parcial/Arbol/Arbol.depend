@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1510517245 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1510516499 c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol\arbol.h
+
+1510517148 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1509629979 source:c:\users\laboratorios\desktop\2do parcial\arbol\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1509423774 c:\users\laboratorios\desktop\2do parcial\arbol\arbol.h
+
+1509423774 source:c:\users\laboratorios\desktop\2do parcial\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+

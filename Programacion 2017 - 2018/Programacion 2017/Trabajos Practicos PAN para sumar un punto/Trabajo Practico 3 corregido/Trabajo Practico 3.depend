@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1510792073 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"header.h"
+	"tp3.h"
+	"indice.h"
+
+1506562786 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1506562786 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\fecha.h
+
+1510788058 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1510787931 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\header.h
+	"fecha.h"
+
+1510791901 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\tp3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp3.h"
+	"fecha.h"
+
+1510787523 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\tp3.h
+	"header.h"
+	"indice.h"
+	"fecha.h"
+
+1510790516 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"indice.h"
+	<string.h>
+
+1510359999 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\lista.h
+	"iterador.h"
+
+1510360162 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\iterador.h
+	"def.h"
+
+1510361822 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\def.h
+	"reg_ind.h"
+
+1509580326 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\reg_ind.h
+
+1510362626 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\indice.h
+	"lista.h"
+	"reg_ind.h"
+
+1510360504 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\iterador.c
+	<stdio.h>
+	<stdlib.h>
+	"iterador.h"
+
+1510790454 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"iterador.h"
+
+1510803042 source:c:\users\laboratorios\desktop\tp 3\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1510803042 c:\users\laboratorios\desktop\tp 3\fecha.h
+
+1510838503 source:c:\users\laboratorios\desktop\tp 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1510803042 c:\users\laboratorios\desktop\tp 3\header.h
+	"fecha.h"
+
+1510843848 source:c:\users\laboratorios\desktop\tp 3\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"indice.h"
+	<string.h>
+
+1510803042 c:\users\laboratorios\desktop\tp 3\lista.h
+	"iterador.h"
+
+1510803042 c:\users\laboratorios\desktop\tp 3\iterador.h
+	"def.h"
+
+1510803042 c:\users\laboratorios\desktop\tp 3\def.h
+	"reg_ind.h"
+
+1510803040 c:\users\laboratorios\desktop\tp 3\reg_ind.h
+
+1510843827 c:\users\laboratorios\desktop\tp 3\indice.h
+	"lista.h"
+	"reg_ind.h"
+
+1510803042 source:c:\users\laboratorios\desktop\tp 3\iterador.c
+	<stdio.h>
+	<stdlib.h>
+	"iterador.h"
+
+1510842948 source:c:\users\laboratorios\desktop\tp 3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"iterador.h"
+
+1510844153 source:c:\users\laboratorios\desktop\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"header.h"
+	"tp3.h"
+	"indice.h"
+
+1510803040 c:\users\laboratorios\desktop\tp 3\tp3.h
+	"header.h"
+	"indice.h"
+	"fecha.h"
+
+1510838789 source:c:\users\laboratorios\desktop\tp 3\tp3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp3.h"
+	"fecha.h"
+
+1510803042 source:c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\fecha.h
+
+1510838503 source:c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\header.h
+	"fecha.h"
+
+1510847130 source:c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"indice.h"
+	<string.h>
+
+1510846780 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\lista.h
+	"iterador.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\iterador.h
+	"def.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\def.h
+	"reg_ind.h"
+
+1510803040 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\reg_ind.h
+
+1510843827 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\indice.h
+	"lista.h"
+	"reg_ind.h"
+
+1510848491 source:c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\iterador.c
+	<stdio.h>
+	<stdlib.h>
+	"iterador.h"
+
+1510846759 source:c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"iterador.h"
+
+1510847093 source:c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"header.h"
+	"tp3.h"
+	"indice.h"
+
+1510803040 c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\tp3.h
+	"header.h"
+	"indice.h"
+	"fecha.h"
+
+1510838789 source:c:\users\juanjo\desktop\unlam\programacion\tp 3 pan\tp3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp3.h"
+	"fecha.h"
+
+1510803042 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\fecha.h
+
+1510838503 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\header.h
+	"fecha.h"
+
+1510847130 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"indice.h"
+	<string.h>
+
+1510846780 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\lista.h
+	"iterador.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\iterador.h
+	"def.h"
+
+1510803042 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\def.h
+	"reg_ind.h"
+
+1510803040 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\reg_ind.h
+
+1510843827 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\indice.h
+	"lista.h"
+	"reg_ind.h"
+
+1510848491 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\iterador.c
+	<stdio.h>
+	<stdlib.h>
+	"iterador.h"
+
+1510846759 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"iterador.h"
+
+1510918409 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"header.h"
+	"tp3.h"
+	"indice.h"
+
+1510803040 c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\tp3.h
+	"header.h"
+	"indice.h"
+	"fecha.h"
+
+1510918113 source:c:\users\juanjo\desktop\unlam\programacion\trabajo practico 3 corregido\tp3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp3.h"
+	"fecha.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512394531 source:c:\users\juanjo\desktop\estudio final prog\04_11 ej11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

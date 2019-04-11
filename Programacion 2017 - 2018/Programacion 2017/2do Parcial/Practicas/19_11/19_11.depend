@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511103084 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\19_11\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1511101260 c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\19_11\arbol.h
+
+1511103156 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\19_11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+

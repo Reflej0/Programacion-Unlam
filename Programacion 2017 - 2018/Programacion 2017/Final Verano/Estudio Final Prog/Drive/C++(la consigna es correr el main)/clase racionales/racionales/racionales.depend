@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1479043784 source:k:\clase racionales\racionales\main.cpp
+	"racionales.h"
+
+1479047670 k:\clase racionales\racionales\racionales.h
+	<iostream>
+
+1479048912 source:k:\clase racionales\racionales\racionales.cpp
+	"racionales.h"
+

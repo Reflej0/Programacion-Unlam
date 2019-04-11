@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513296412 source:c:\users\juanjo\desktop\estudio final prog\final\vocales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vocales.h"
+
+1513295679 c:\users\juanjo\desktop\estudio final prog\final\vocales\vocales.h
+
+1513296800 source:c:\users\juanjo\desktop\estudio final prog\final\vocales\vocales.c
+	<stdio.h>
+	<stdlib.h>
+	"vocales.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1404746736 source:e:\dropbox\còdigos\c++\clase profesional\clase profesional\main.cpp
+	"Profesional.h"
+
+1404747223 e:\dropbox\còdigos\c++\clase profesional\clase profesional\profesional.h
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1404747168 source:e:\dropbox\còdigos\c++\clase profesional\clase profesional\profesional.cpp
+	"Profesional.h"
+

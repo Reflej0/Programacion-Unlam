@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1506562786 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1524425055 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp1\fecha.h
+
+1525621947 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1525621867 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp1\header.h
+	"fecha.h"
+
+1525621781 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1526231646 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp2\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1524425055 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp2\fecha.h
+
+1526231659 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1526230337 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp2\header.h
+	"fecha.h"
+
+1526228725 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

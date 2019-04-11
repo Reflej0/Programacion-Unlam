@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526397705 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\ordenamiento generico\funciones.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1526397551 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\ordenamiento generico\header.h
+
+1526397391 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\ordenamiento generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

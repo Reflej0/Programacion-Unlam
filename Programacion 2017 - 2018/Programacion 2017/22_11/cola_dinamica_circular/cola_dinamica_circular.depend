@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510952060 source:c:\facu\programacion2\otra practica2\cola_dinamica_circular\cola_circular_dinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"cola_circular_dinamica.h"
+
+1510949013 c:\facu\programacion2\otra practica2\cola_dinamica_circular\cola_circular_dinamica.h
+
+1510951732 source:c:\facu\programacion2\otra practica2\cola_dinamica_circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola_circular_dinamica.h"
+

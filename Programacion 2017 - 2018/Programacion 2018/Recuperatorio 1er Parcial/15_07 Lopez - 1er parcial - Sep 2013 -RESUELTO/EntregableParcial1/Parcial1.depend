@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1381340659 source:c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\parcial1\biblioteca.c
+	"biblioteca.h"
+
+1381280220 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\parcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1381253638 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\parcial1\info.h
+
+1381279914 source:c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\parcial1\info.c
+	<stdio.h>
+	"info.h"
+
+1381277637 source:c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\parcial1\lista.c
+	<stdlib.h>
+	"lista.h"
+
+1381275623 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\parcial1\lista.h
+	"info.h"
+
+1381279451 source:c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+
+1381279451 source:c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\entregableparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+
+1381280220 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\entregableparcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1381253638 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\entregableparcial1\info.h
+
+1381275623 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com01-20132docuat\entregableparcial1\lista.h
+	"info.h"
+
+1381357392 source:c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com05-20132docuat\entregableparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+
+1381280220 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com05-20132docuat\entregableparcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1381253638 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com05-20132docuat\entregableparcial1\info.h
+
+1381275623 c:\documents and settings\luis\escritorio\programación\prog2-2008\parciales\evaluacionesenlaboratorio\com05-20132docuat\entregableparcial1\lista.h
+	"info.h"
+
+1381455633 source:c:\aaa\entregableparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+
+1381280222 c:\aaa\entregableparcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1381253640 c:\aaa\entregableparcial1\info.h
+
+1381275624 c:\aaa\entregableparcial1\lista.h
+	"info.h"
+
+1383699518 source:c:\users\elmer\desarrollo\c\aplicaciones\modelosdeexamen\aaa\entregableparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+
+1381280222 c:\users\elmer\desarrollo\c\aplicaciones\modelosdeexamen\aaa\entregableparcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1381253640 c:\users\elmer\desarrollo\c\aplicaciones\modelosdeexamen\aaa\entregableparcial1\info.h
+
+1381275624 c:\users\elmer\desarrollo\c\aplicaciones\modelosdeexamen\aaa\entregableparcial1\lista.h
+	"info.h"
+
+1401854578 source:c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013\entregableparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+
+1401771491 c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013\entregableparcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1381253640 c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013\entregableparcial1\info.h
+
+1381275624 c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013\entregableparcial1\lista.h
+	"info.h"
+
+1401856062 source:c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013\entregableparcial1\funciones.c
+	"info.h"
+	"lista.h"
+	"biblioteca.h"
+
+1401854578 source:c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+
+1401771491 c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1381253640 c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\info.h
+
+1381275624 c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\lista.h
+	"info.h"
+
+1401894046 source:c:\users\fbatis\facu\facultad\progra\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\funciones.c
+	"info.h"
+	"lista.h"
+	"biblioteca.h"
+
+1531669360 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\modelos parcial\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\funciones.c
+	<string.h>
+	"info.h"
+	"lista.h"
+	"biblioteca.h"
+
+1381253640 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\modelos parcial\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\info.h
+
+1381275624 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\modelos parcial\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\lista.h
+	"info.h"
+
+1401771491 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\modelos parcial\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\biblioteca.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"info.h"
+	"lista.h"
+
+1531669180 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\modelos parcial\lopez - 1er parcial - sep 2013 -resuelto\entregableparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"lista.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511365719 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\lista doblemente enlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1511046908 c:\users\juanjo\desktop\unlam\programacion\2do parcial\lista doblemente enlazada\lista.h
+
+1511365654 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\lista doblemente enlazada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

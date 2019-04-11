@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528402845 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica parciales\practica sin parcial\07_06 lista dinamica\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1528401904 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica parciales\practica sin parcial\07_06 lista dinamica\lista.h
+
+1528402297 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica parciales\practica sin parcial\07_06 lista dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

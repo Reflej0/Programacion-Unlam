@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1499803607 source:c:\users\laboratorios\desktop\entregable_2017-07-11 tt\parcialc\arbol.c
+	<tipos.h>
+	<stdio.h>
+	<stdlib.h>
+	<arbol.h>
+	<pila.h>
+	<utilitarias.h>
+
+1499402083 c:\users\laboratorios\desktop\entregable_2017-07-11 tt\include\tipos.h
+
+1499801029 c:\users\laboratorios\desktop\entregable_2017-07-11 tt\include\arbol.h
+	<stdlib.h>
+	<Tipos.h>
+
+1499402083 c:\users\laboratorios\desktop\entregable_2017-07-11 tt\include\pila.h
+	<arbol.h>
+
+1499803054 source:c:\users\laboratorios\desktop\entregable_2017-07-11 tt\parcialc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<utilitarias.h>
+	<varias.h>
+	<arbol.h>
+	<lista.h>
+
+1499800651 c:\users\laboratorios\desktop\entregable_2017-07-11 tt\include\utilitarias.h
+	<stdio.h>
+	<arbol.h>
+
+1479414095 c:\users\laboratorios\desktop\entregable_2017-07-11 tt\include\varias.h
+
+1479414100 c:\users\laboratorios\desktop\entregable_2017-07-11 tt\include\lista.h
+	<tipos.h>
+
+1499402660 source:c:\users\laboratorios\desktop\entregable_2017-07-11 tt\parcialc\pila.c
+	<pila.h>
+	<stdlib.h>
+
+1499801909 source:c:\users\laboratorios\desktop\entregable_2017-07-11 tt\parcialc\utilitarias.c
+	<utilitarias.h>
+	<string.h>
+	<varias.h>
+

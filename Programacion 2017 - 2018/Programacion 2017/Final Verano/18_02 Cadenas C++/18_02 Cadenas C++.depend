@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1518967133 source:c:\users\juanjo\desktop\final verano\18_02 cadenas c++\cadenas.cpp
+	<iostream>
+	<string.h>
+	"cadenas.h"
+
+1518966531 c:\users\juanjo\desktop\final verano\18_02 cadenas c++\cadenas.h
+
+1518966010 source:c:\users\juanjo\desktop\final verano\18_02 cadenas c++\main.cpp
+	<iostream>
+	"cadenas.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1529801825 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\23_05 recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursividad.h"
+
+1529801684 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\23_05 recursividad\recursividad.h
+
+1529801810 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\23_05 recursividad\recursividad.c
+	<stdio.h>
+	<stdlib.h>
+	"recursividad.h"
+
+1529801825 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\23_06 recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursividad.h"
+
+1529801684 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\23_06 recursividad\recursividad.h
+
+1529801810 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\23_06 recursividad\recursividad.c
+	<stdio.h>
+	<stdlib.h>
+	"recursividad.h"
+

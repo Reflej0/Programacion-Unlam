@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1487903782 source:c:\facu\programacion2\cualquiera\ejs20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1487903782 c:\facu\programacion2\cualquiera\ejs20\header.h
+
+1488116302 source:c:\facu\programacion2\cualquiera\ejs20\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

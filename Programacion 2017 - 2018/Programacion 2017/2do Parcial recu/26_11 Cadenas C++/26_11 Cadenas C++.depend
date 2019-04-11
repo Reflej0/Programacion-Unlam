@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511743769 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 cadenas c++\cadena.cpp
+	<iostream>
+	"cadena.h"
+
+1511743597 c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 cadenas c++\cadena.h
+	<string.h>
+
+1511743633 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 cadenas c++\main.cpp
+	<iostream>
+	"cadena.h"
+

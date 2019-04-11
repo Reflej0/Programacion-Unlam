@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523324177 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\09_04 ejercicio fechas\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1523324115 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\09_04 ejercicio fechas\fechas.h
+
+1523324214 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\09_04 ejercicio fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+

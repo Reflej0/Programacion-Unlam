@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405089413 source:c:\documents and settings\lab4.unlmlab\escritorio\integrador\fecha\clase fecha\main.cpp
+	"Fecha.h"
+
+1405089577 c:\documents and settings\lab4.unlmlab\escritorio\integrador\fecha\clase fecha\fecha.h
+	<iostream>
+

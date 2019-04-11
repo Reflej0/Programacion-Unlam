@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525143770 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\30_04 ejercicio 20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursivo.h"
+
+1525143638 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\30_04 ejercicio 20\recursivo.h
+
+1525143767 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\30_04 ejercicio 20\recursivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recursivo.h"
+

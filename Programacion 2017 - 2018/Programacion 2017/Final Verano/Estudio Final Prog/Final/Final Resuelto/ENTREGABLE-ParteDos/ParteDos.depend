@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513035694 source:c:\users\laboratorios\desktop\entregable-partedos\hora.cpp
+	<stdlib.h>
+	"hora.h"
+
+1513034850 c:\users\laboratorios\desktop\entregable-partedos\hora.h
+	<iostream>
+
+1513034194 source:c:\users\laboratorios\desktop\entregable-partedos\main.cpp
+	"main.h"
+
+1512672675 c:\users\laboratorios\desktop\entregable-partedos\main.h
+	<iostream>
+	"hora.h"
+

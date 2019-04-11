@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507556712 source:c:\users\laboratorios\desktop\doble puntero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

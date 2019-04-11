@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1496275803 source:g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\1erparcialdelivery\main.c
+	<stdio.h>
+	<stdlib.h>
+	<TiposDelivery.h>
+	<indice_string.h>
+	<1erParcialUtilitariasDelivery.h>
+
+1496268528 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\tiposdelivery.h
+
+1496270348 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\indice_string.h
+
+1496275145 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\1erparcialutilitariasdelivery.h
+	<stdio.h>
+	<indice_string.h>
+	<cola.h>
+
+1448635026 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\cola.h
+	<Defs.h>
+	<TipoTDA.h>
+
+1479070042 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\defs.h
+
+1496264696 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\tipotda.h
+	<TiposDelivery.h>
+
+1496278587 source:g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\1erparcialdelivery\cola.c
+	<Cola.h>
+
+1448635026 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\include\cola.h
+	<Defs.h>
+	<TipoTDA.h>
+
+1479070042 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\include\defs.h
+
+1496264696 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\include\tipotda.h
+	<TiposDelivery.h>
+
+1496268528 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\include\tiposdelivery.h
+
+1496279297 source:g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\1erparcialdelivery\main.c
+	<stdio.h>
+	<stdlib.h>
+	<TiposDelivery.h>
+	<indice_string.h>
+	<1erParcialUtilitariasDelivery.h>
+
+1496270348 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\include\indice_string.h
+
+1496275145 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\include\1erparcialutilitariasdelivery.h
+	<stdio.h>
+	<indice_string.h>
+	<cola.h>
+
+1496278587 source:g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\1erparcialdelivery\cola.c
+	<Cola.h>
+
+1448635026 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\include\cola.h
+	<Defs.h>
+	<TipoTDA.h>
+
+1479070042 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\include\defs.h
+
+1496264696 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\include\tipotda.h
+	<TiposDelivery.h>
+
+1496268528 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\include\tiposdelivery.h
+
+1496279297 source:g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\1erparcialdelivery\main.c
+	<stdio.h>
+	<stdlib.h>
+	<TiposDelivery.h>
+	<indice_string.h>
+	<1erParcialUtilitariasDelivery.h>
+
+1496270348 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\include\indice_string.h
+
+1496275145 g:\dropbox\unlam\programacion\examenesenmaquina\2017-06-01\2017-06-01_entregable\include\1erparcialutilitariasdelivery.h
+	<stdio.h>
+	<indice_string.h>
+	<cola.h>
+
+1496278587 source:c:\2017-06-01_entregable\1erparcialdelivery\cola.c
+	<Cola.h>
+
+1448635026 c:\2017-06-01_entregable\include\cola.h
+	<Defs.h>
+	<TipoTDA.h>
+
+1479070042 c:\2017-06-01_entregable\include\defs.h
+
+1496264696 c:\2017-06-01_entregable\include\tipotda.h
+	<TiposDelivery.h>
+
+1496268528 c:\2017-06-01_entregable\include\tiposdelivery.h
+
+1496279510 source:c:\2017-06-01_entregable\1erparcialdelivery\main.c
+	<stdio.h>
+	<stdlib.h>
+	<TiposDelivery.h>
+	<indice_string.h>
+	<1erParcialUtilitariasDelivery.h>
+
+1496270348 c:\2017-06-01_entregable\include\indice_string.h
+
+1496275145 c:\2017-06-01_entregable\include\1erparcialutilitariasdelivery.h
+	<stdio.h>
+	<indice_string.h>
+	<cola.h>
+
+1508078714 source:c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\1erparcialdelivery\cola.c
+	<Cola.h>
+
+1448635026 c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\include\cola.h
+	<Defs.h>
+	<TipoTDA.h>
+
+1479070042 c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\include\defs.h
+
+1496264696 c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\include\tipotda.h
+	<TiposDelivery.h>
+
+1496268528 c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\include\tiposdelivery.h
+
+1508081468 source:c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\1erparcialdelivery\main.c
+	<stdio.h>
+	<stdlib.h>
+	<TiposDelivery.h>
+	<indice_string.h>
+	<1erParcialUtilitariasDelivery.h>
+	<string.h>
+
+1496270348 c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\include\indice_string.h
+
+1496275146 c:\users\juanjo\desktop\unlam\programacion\2017-06-01_entregable\include\1erparcialutilitariasdelivery.h
+	<stdio.h>
+	<indice_string.h>
+	<cola.h>
+

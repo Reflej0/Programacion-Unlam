@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506899463 source:c:\facu\programacion2\2c 2017\cola estatica\func.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1506900638 c:\facu\programacion2\2c 2017\cola estatica\header.h
+
+1506900638 source:c:\facu\programacion2\2c 2017\cola estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501551379 source:c:\users\juanjo\desktop\unlam\programacion\tp 1\ejercicio 1(factorial)\main.c
+	<stdio.h>
+	<stdlib.h>
+

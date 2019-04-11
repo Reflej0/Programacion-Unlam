@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1531083237 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 persona full\cadena.cpp
+	<iostream>
+	"cadena.h"
+	"string.h"
+
+1531076841 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 persona full\fecha.cpp
+	<iostream>
+	"fecha.h"
+
+1531076518 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 persona full\fecha.h
+
+1531083229 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 persona full\main.cpp
+	<iostream>
+	"persona.h"
+
+1531083249 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 persona full\persona.cpp
+	<iostream>
+	<stdlib.h>
+	"persona.h"
+
+1531083221 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 persona full\cadena.h
+
+1531082947 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 persona full\persona.h
+	"fecha.h"
+	"cadena.h"
+

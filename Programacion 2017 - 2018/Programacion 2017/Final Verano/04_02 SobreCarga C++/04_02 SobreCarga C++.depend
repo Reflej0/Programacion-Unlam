@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517797486 source:c:\users\juanjo\desktop\final verano\04_02 sobrecarga c++\ejemplo.cpp
+	<iostream>
+	"ejemplo.h"
+
+1517797534 c:\users\juanjo\desktop\final verano\04_02 sobrecarga c++\ejemplo.h
+	<iostream>
+
+1517798400 source:c:\users\juanjo\desktop\final verano\04_02 sobrecarga c++\main.cpp
+	<iostream>
+	"ejemplo.h"
+

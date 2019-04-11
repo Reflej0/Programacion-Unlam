@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1530282116 source:c:\users\laboratorios\desktop\entero c++\entero.cpp
+	<iostream>
+	"entero.h"
+
+1530282074 c:\users\laboratorios\desktop\entero c++\entero.h
+	<iostream>
+
+1530282126 source:c:\users\laboratorios\desktop\entero c++\main.cpp
+	<iostream>
+	"entero.h"
+
+1530326392 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\entero c++\entero.cpp
+	<iostream>
+	"entero.h"
+	<stdlib.h>
+
+1530325770 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\entero c++\entero.h
+	<iostream>
+
+1530326303 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\entero c++\main.cpp
+	<iostream>
+	"entero.h"
+

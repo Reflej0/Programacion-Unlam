@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1511204044 source:c:\facu\programacion2\otra practica2\arbol\func.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"header.h"
+
+1511202976 c:\facu\programacion2\otra practica2\arbol\header.h
+
+1511203156 source:c:\facu\programacion2\otra practica2\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

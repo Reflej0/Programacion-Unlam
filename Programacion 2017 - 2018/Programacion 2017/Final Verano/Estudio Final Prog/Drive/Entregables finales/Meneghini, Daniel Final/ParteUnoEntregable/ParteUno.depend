@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1482190403 source:c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\parteunoentregable\main.c
+	"main.h"
+
+1481819473 c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\parteunoentregable\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1481819473 c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\parteunoentregable\funciones.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1482190321 source:c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\parteunoentregable\funciones.c
+	"funciones.h"
+
+1482190321 source:c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\parteunoentregable\funciones.c
+	"funciones.h"
+
+1481819473 c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\parteunoentregable\funciones.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1482190403 source:c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\parteunoentregable\main.c
+	"main.h"
+
+1481819473 c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\parteunoentregable\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511220948 source:c:\facu\programacion2\otra practica2\punto\main.cpp
+	<iostream>
+	"punto.h"
+
+1511221379 c:\facu\programacion2\otra practica2\punto\punto.h
+	<iostream>
+
+1511221379 source:c:\facu\programacion2\otra practica2\punto\punto.cpp
+	"punto.h"
+

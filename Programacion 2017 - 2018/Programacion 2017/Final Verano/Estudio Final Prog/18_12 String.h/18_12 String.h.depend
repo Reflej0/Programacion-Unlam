@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513603345 source:c:\users\juanjo\desktop\estudio final prog\18_12 string.h\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1513603334 c:\users\juanjo\desktop\estudio final prog\18_12 string.h\string.h
+
+1513603465 source:c:\users\juanjo\desktop\estudio final prog\18_12 string.h\string.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+

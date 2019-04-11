@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1503173248 source:c:\users\juanjo\desktop\unlam\programacion\vector variable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vector_dinamico.h"
+
+1503173321 source:c:\users\juanjo\desktop\unlam\programacion\vector variable\vector_dinamico.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vector_dinamico.h"
+
+1503171323 c:\users\juanjo\desktop\unlam\programacion\vector variable\vector_dinamico.h
+	<stdbool.h>
+

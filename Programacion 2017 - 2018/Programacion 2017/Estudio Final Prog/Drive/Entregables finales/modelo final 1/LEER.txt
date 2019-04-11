@@ -1,0 +1,6 @@
+Sobre este final practiqué lo importante pese a no tener el entregable original. 
+Hagan Ordenar y eliminar repetidos(teniendola aun desordenada), lo otro ya funciona, imaginen que lo otro es el entregable. Lista desordenada, con repetidos.
+Habia que mostrar cuantos nodos de una clave sacabas y la clave. Al final informar cuantos nodos sacaste de la lista. Suerte jajja
+Otra cosa: en ordenar, lo que pretenden es no muevas los paquetes de informacion, sino los enlaces entre nodos. Claramente, no hice eso.
+En matrices, no eran cuadradas, agarrate catalina, y tenias que hacer una funcion para invertir filas,
+y en la otra funcion tenías que intercambiar cruzados los elementos, dificil de entender sin visualizar, corran el proyecto y verán. Es la forma Lopez de matrices.

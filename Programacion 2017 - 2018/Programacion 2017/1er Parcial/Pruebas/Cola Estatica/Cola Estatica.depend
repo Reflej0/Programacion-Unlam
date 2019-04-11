@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508096082 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\cola estatica\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1508095723 c:\users\juanjo\desktop\unlam\programacion\pruebas\cola estatica\cola.h
+
+1508096129 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\cola estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

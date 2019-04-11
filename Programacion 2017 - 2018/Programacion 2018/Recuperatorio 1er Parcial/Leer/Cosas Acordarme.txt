@@ -1,0 +1,13 @@
+Tratar archivos fijos OK.
+Ver archivos variables
+ATOI ITOA ATOF FALTA ITOA. OK.
+Ordenar Lista OK.
+Eliminar duplicados Lista. OK.
+Imprimir matriz espiral OK.
+
+MARTES 17
+Matriz ejercicios OK.
+MEJORES LISTA OK.
+ELIMINAR DUPLICADOS OK.
+ITOA OK.
+ESPIRAL OK.

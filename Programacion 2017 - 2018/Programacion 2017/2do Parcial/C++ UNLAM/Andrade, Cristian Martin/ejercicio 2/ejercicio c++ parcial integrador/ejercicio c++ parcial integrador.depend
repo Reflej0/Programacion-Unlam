@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1405514199 source:c:\documents and settings\lab4.unlmlab\escritorio\andrade, cristian martin\ejercicio c++ parcial integrador\main.cpp
+	"Carta.h"
+
+1405514438 c:\documents and settings\lab4.unlmlab\escritorio\andrade, cristian martin\ejercicio c++ parcial integrador\carta.h
+	<string.h>
+	<iostream>
+
+1405514497 source:c:\documents and settings\lab4.unlmlab\escritorio\andrade, cristian martin\ejercicio c++ parcial integrador\carta.cpp
+	"Carta.h"
+
+1405514497 source:e:\dropbox\còdigos\c++\andrade, cristian martin\ejercicio 2\ejercicio c++ parcial integrador\carta.cpp
+	"Carta.h"
+
+1405514438 e:\dropbox\còdigos\c++\andrade, cristian martin\ejercicio 2\ejercicio c++ parcial integrador\carta.h
+	<string.h>
+	<iostream>
+
+1405514199 source:e:\dropbox\còdigos\c++\andrade, cristian martin\ejercicio 2\ejercicio c++ parcial integrador\main.cpp
+	"Carta.h"
+

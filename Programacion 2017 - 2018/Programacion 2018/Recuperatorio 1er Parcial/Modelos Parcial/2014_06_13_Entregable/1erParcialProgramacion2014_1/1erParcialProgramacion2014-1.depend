@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1401373459 source:c:\dropbox\unlam\programación\examenesenmaquina\2014-06-13\1erparcialprogramacion2014-1\cadena.c
+	"Cadena.h"
+
+1401373780 c:\dropbox\unlam\programación\examenesenmaquina\2014-06-13\1erparcialprogramacion2014-1\cadena.h
+
+1401377029 source:c:\dropbox\unlam\programación\examenesenmaquina\2014-06-13\1erparcialprogramacion2014-1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1401980109 source:c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\1erparcialprogramacion2014_1\cadena.c
+	<Cadena.h>
+
+1401373780 c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\1erparcialprogramacion2014_1\cadena.h
+
+1402411356 source:c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\1erparcialprogramacion2014_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Cadena.h>
+	<Lista.h>
+	<Cola.h>
+	<Utilitarias.h>
+
+1401979352 c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\include\cadena.h
+
+1402256036 source:c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\1erparcialprogramacion2014_1\cola.c
+	<Cola.h>
+
+1402242040 c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\include\cola.h
+	<Defs.h>
+	<Tipos.h>
+
+1402241998 c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\include\defs.h
+
+1402004003 c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\include\tipos.h
+
+1402240079 source:c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\1erparcialprogramacion2014_1\lista.c
+	<Lista.h>
+
+1402258748 c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\include\lista.h
+	<tipos.h>
+
+1402410989 c:\dropbox\unlam\programacion\examenesenmaquina\2014_06_13\include\utilitarias.h
+	<Lista.h>
+	<Cola.h>
+
+1401980109 source:c:\2014_06_13\1erparcialprogramacion2014_1\cadena.c
+	<Cadena.h>
+
+1401979352 c:\2014_06_13\include\cadena.h
+
+1402416500 source:c:\2014_06_13\1erparcialprogramacion2014_1\cola.c
+	<Cola.h>
+
+1402242040 c:\2014_06_13\include\cola.h
+	<Defs.h>
+	<Tipos.h>
+
+1402241998 c:\2014_06_13\include\defs.h
+
+1402004003 c:\2014_06_13\include\tipos.h
+
+1402416578 source:c:\2014_06_13\1erparcialprogramacion2014_1\lista.c
+	<Lista.h>
+
+1402258748 c:\2014_06_13\include\lista.h
+	<tipos.h>
+
+1402416376 source:c:\2014_06_13\1erparcialprogramacion2014_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Cadena.h>
+	<Lista.h>
+	<Cola.h>
+	<Utilitarias.h>
+
+1402416784 c:\2014_06_13\include\utilitarias.h
+	<Lista.h>
+	<Cola.h>
+
+1403039731 source:c:\2014_06_13_entregable\1erparcialprogramacion2014_1\cadena.c
+	<Cadena.h>
+
+1403039194 c:\2014_06_13_entregable\include\cadena.h
+	<stdlib.h>
+
+1402416500 source:c:\2014_06_13_entregable\1erparcialprogramacion2014_1\cola.c
+	<Cola.h>
+
+1402242040 c:\2014_06_13_entregable\include\cola.h
+	<Defs.h>
+	<Tipos.h>
+
+1402241998 c:\2014_06_13_entregable\include\defs.h
+
+1402004003 c:\2014_06_13_entregable\include\tipos.h
+
+1403037343 source:c:\2014_06_13_entregable\1erparcialprogramacion2014_1\lista.c
+	<Lista.h>
+
+1403037408 c:\2014_06_13_entregable\include\lista.h
+	<stdlib.h>
+	<tipos.h>
+	<defs.h>
+
+1403040244 source:c:\2014_06_13_entregable\1erparcialprogramacion2014_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Cadena.h>
+	<Lista.h>
+	<Cola.h>
+	<Utilitarias.h>
+	<string.h>
+
+1402704344 c:\2014_06_13_entregable\include\utilitarias.h
+	<Lista.h>
+	<Cola.h>
+

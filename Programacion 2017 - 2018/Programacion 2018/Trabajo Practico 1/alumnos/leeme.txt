@@ -1,0 +1,2 @@
+REFLEJO: El archivo alumnos.dat contiene la misma informacion que alumnos.txt
+solo que en formato binario.

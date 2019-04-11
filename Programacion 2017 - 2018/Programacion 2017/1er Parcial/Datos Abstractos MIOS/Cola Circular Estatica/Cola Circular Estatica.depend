@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508082856 source:c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\cola circular estatica\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1508082748 c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\cola circular estatica\cola.h
+
+1508082915 source:c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\cola circular estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

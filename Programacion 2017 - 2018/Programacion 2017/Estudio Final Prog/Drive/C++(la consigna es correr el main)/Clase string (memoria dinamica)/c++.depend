@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1467804673 source:c:\users\laboratorios.unlmlab\desktop\c++\main.cpp
+	<iostream>
+
+1467804582 source:c:\users\laboratorios.unlmlab\desktop\c++\complejo.cpp
+	"complejo.h"
+
+1467804813 c:\users\laboratorios.unlmlab\desktop\c++\complejo.h
+
+1467804674 source:e:\meneghini, daniel. seg parc\c++\main.cpp
+	<iostream>
+

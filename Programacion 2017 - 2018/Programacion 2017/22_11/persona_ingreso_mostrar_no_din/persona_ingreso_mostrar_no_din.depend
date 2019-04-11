@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511323212 source:c:\facu\programacion2\otra practica2\persona_ingreso_mostrar_no_din\main.cpp
+	<iostream>
+	"Persona.h"
+
+1511322956 c:\facu\programacion2\otra practica2\persona_ingreso_mostrar_no_din\include\persona.h
+	<iostream>
+

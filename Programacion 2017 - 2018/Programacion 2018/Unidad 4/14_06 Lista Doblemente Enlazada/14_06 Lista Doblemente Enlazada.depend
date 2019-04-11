@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1529027543 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\14_06 lista doblemente enlazada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1529026725 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\14_06 lista doblemente enlazada\lista.h
+
+1529027571 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\14_06 lista doblemente enlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1529019157 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\14_06 lista doblemente enlazada\usuario.h
+
+1529018224 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\14_06 lista doblemente enlazada\usuario.c
+

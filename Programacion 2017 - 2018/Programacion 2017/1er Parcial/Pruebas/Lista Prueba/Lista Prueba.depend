@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1508335731 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\lista prueba\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1508335107 c:\users\juanjo\desktop\unlam\programacion\pruebas\lista prueba\lista.h
+
+1508335775 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\lista prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503930567 source:c:\users\laboratorios\desktop\normalizacion_cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizacion_cadenas.h"
+
+1503930451 c:\users\laboratorios\desktop\normalizacion_cadenas\normalizacion_cadenas.h
+
+1503930539 source:c:\users\laboratorios\desktop\normalizacion_cadenas\normalizacion_cadenas.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizacion_cadenas.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1531674755 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\15_07 p_2010_rp1_02\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"auxiliares.h"
+	"lista.h"
+
+1531670907 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\15_07 p_2010_rp1_02\auxiliares.h
+
+1531674137 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\15_07 p_2010_rp1_02\lista.h
+
+1531674562 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\15_07 p_2010_rp1_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auxiliares.h"
+	"lista.h"
+

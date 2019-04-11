@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1531151272 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\09_07 cadenas\cadena.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"cadena.h"
+
+1531150403 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\09_07 cadenas\cadena.h
+
+1531150490 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\09_07 cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cadena.h"
+

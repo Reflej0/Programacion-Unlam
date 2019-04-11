@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504740003 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 13(archivo binario)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio_13.h"
+
+1504740068 c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 13(archivo binario)\ejercicio_13.h
+
+1504740553 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 13(archivo binario)\ejercicio_13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio_13.h"
+

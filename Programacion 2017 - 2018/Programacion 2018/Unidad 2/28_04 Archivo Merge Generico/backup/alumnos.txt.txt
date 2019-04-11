@@ -1,0 +1,11 @@
+3000000|Maximiliano Sanchez|8
+3100000|Carolina Perez|5
+3200000|Rodrigo Escobar|10
+3300000|Francisco Soldano|20
+3400000|Camila Garcia|30
+3500000|Franco Toscano|8
+3600000|Martin Suarez|6
+3700000|Analia Alvarez|1
+3800000|Paola Cuadrado|35
+3900000|Cristian Rivas|11
+4000000|Susana Martinez|5

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508093920 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\pila dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1508093669 c:\users\juanjo\desktop\unlam\programacion\pruebas\pila dinamica\pila.h
+
+1508093975 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\pila dinamica\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504470850 source:c:\users\juanjo\desktop\unlam\programacion\practica memoria dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+

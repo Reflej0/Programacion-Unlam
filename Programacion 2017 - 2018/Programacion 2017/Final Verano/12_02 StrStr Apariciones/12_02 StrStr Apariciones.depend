@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518477197 source:c:\users\juanjo\desktop\final verano\12_02 strstr apariciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+Pila: LIFO.
+Push(pila,elemento): Introduzco un elemento en la pila.
+Pop(pila): Elimino el último elemento en la pila.
+Vacia(pila): Funcion booleana que indica si esta vacia o no.
+
+Cola: FIFO.
+Push(pila, elemento): Introduzco un elemento en la cola.
+Pop(cola): Saco el primer elemento introducido en la cola.
+Vacia(cola): Funcion booleana que indica si esta vacio o no.
+
+

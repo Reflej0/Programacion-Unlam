@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1525629540 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\06_05 ordenamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"funciones.h"
+
+1525629467 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\06_05 ordenamiento\funciones.c
+	<sys/time.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525629474 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\06_05 ordenamiento\funciones.h
+
+1525631039 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\06_05 aleatorio_ordenamiento_dinamico\funciones.c
+	<sys/time.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525629474 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\06_05 aleatorio_ordenamiento_dinamico\funciones.h
+
+1525653501 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\06_05 aleatorio_ordenamiento_dinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"funciones.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503846290 source:c:\users\juanjo\desktop\unlam\programacion\pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1503846420 source:c:\users\juanjo\desktop\unlam\programacion\pila\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1503846443 c:\users\juanjo\desktop\unlam\programacion\pila\pila.h
+

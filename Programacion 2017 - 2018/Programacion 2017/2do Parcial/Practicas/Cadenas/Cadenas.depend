@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511188408 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\cadenas\cadenas.cpp
+	"cadenas.h"
+
+1511187488 c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\cadenas\cadenas.h
+	<iostream>
+	<string.h>
+
+1511186950 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\cadenas\main.cpp
+	<iostream>
+	"cadenas.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511024264 source:c:\facu\programacion2\otra practica2\indice_de_bin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1511024264 c:\facu\programacion2\otra practica2\indice_de_bin\header.h
+
+1511024466 source:c:\facu\programacion2\otra practica2\indice_de_bin\func.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

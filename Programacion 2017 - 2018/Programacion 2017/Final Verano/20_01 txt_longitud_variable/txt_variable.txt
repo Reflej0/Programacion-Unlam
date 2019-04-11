@@ -1,0 +1,3 @@
+Juan|Tocino|38617339
+Kevin|Rodriguez|1234567
+Alonso|Marcelo|9321345

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525136954 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\30_04 ejercicio 14\_string.c
+	<stdio.h>
+	<stdlib.h>
+	"_string.h"
+
+1525136957 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\30_04 ejercicio 14\_string.h
+
+1525136968 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\30_04 ejercicio 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"_string.h"
+

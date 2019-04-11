@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1513041531 source:c:\users\laboratorios\desktop\entregable-parteuno\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
+1513037914 c:\users\laboratorios\desktop\entregable-parteuno\funciones.h
+
+1513036244 source:c:\users\laboratorios\desktop\entregable-parteuno\main.c
+	"main.h"
+
+1512672675 c:\users\laboratorios\desktop\entregable-parteuno\main.h
+	<stdio.h>
+	"funciones.h"
+

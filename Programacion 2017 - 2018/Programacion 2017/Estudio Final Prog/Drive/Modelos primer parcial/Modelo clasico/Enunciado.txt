@@ -1,0 +1,87 @@
+Yo hice algunos ejercicios de cadenas extras en este proyecto, como sacar las apariciones de s2 en s1.
+
+
+Primero y principal, si tienen alguna duda de los enunciados pregunten, creo que no me olvide de nada, trate de explicarlos lo más que pude.
+
+De archivos:
+
+Dado un archivo que cada registro contiene :
+
+- Número de Cuenta------------char[9]
+- Movimiento----------------------char
+- Importe----------------------------float
+
+Dividir la información en 2 archivo : Mas De Mil, Menos De Mil.
+(Lo que debe ser más de mil o menos de mil es el saldo total de la cuenta)
+
+Los movimientos deben quedar en los archivos finales de la siguiente manera:
+
+-    Cuenta en el orden original.
+
+Y por cada cuenta:
+
+-    Ordenados por Movimiento e Importe
+
+Si el número de cuenta no es valido, guardar todos los movimientos (en el mismo orden que en el archivo original) en un archivo "ERRORES.TXT".
+
+-------------------------------------------------------------------------------------------
+Tener en cuenta:
+
+- El movimiento es "D" o "E" , deposito o extracción)
+
+- Para los Número de Cuenta:
+
+El último número es de verificación.
+
+Los números anteriores al guión deben sumarse hasta que quede una sóla cifra.
+
+Ejemplo : 999999-9
+
+9+9+9+9+9+9 = 54
+
+Como no es una cifra sola, sumo de nuevo
+
+5+4 = 9 -> La cuenta es válida.
+
+Si este último número es igual al número de verificación la cuenta es válida.
+
+Otros ejemplos: 111111-6
+
+1+1+1+1+1+1 = 6 -> La cuenta es válida.
+
+111111-5
+
+1+1+1+1+1+1 = 6 -> La cuenta NO es válida.
+
+- Todos los movimientos de la misma cuenta vienen juntos.
+ Ejemplo:  
+
+    999999-9    E    2000
+    999999-9    D    1500
+    111111-6    D    1000
+    111111-6    E    2000
+    33333-3    E    1500
+
+
+-------------------------------------------------------------------------------------------
+
+De matrices:
+
+Realizar una función que compruebe si la matriz es simetrica por la diagonal secundaria.
+(este es fácil, no se confien :) )
+
+De cadenas:
+
+Se tienen dos cadenas, comprobar si la segunda cadena esta incluída en la primera, si esta incluída informo la primera aparición de la subcadena, de no estarlo -1.
+
+Ejemplo:
+
+cad1 = "Un castillo de arena"
+cad2 = "Castillo d"
+
+Devuelve 3.
+
+cad1 = "Un castillo de arena"
+cad2 = "caZtillo d"
+
+Devuelve -1.

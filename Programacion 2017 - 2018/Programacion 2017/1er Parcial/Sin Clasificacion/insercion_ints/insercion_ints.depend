@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1505175534 source:c:\users\juanjo\desktop\unlam\programacion\insercion_ints\insercion_ints.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"insercion_ints.h"
+
+1505174357 c:\users\juanjo\desktop\unlam\programacion\insercion_ints\insercion_ints.h
+
+1505175515 source:c:\users\juanjo\desktop\unlam\programacion\insercion_ints\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"insercion_ints.h"
+

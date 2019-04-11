@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1511758353 source:c:\users\fede_\desktop\universidad\programacion 1\2c 2017\c++ y 2p\practicando_primitivas_2p\funciones_arbol.c
+	"Prototipos.h"
+
+1512754396 c:\users\fede_\desktop\universidad\programacion 1\2c 2017\c++ y 2p\practicando_primitivas_2p\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stddef.h>
+
+1512760699 source:c:\users\fede_\desktop\universidad\programacion 1\2c 2017\c++ y 2p\practicando_primitivas_2p\funciones_lista.c
+	"Prototipos.h"
+
+1512759982 source:c:\users\fede_\desktop\universidad\programacion 1\2c 2017\c++ y 2p\practicando_primitivas_2p\main.c
+	"Prototipos.h"
+

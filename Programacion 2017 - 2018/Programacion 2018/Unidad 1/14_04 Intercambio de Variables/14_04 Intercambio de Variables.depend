@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523722336 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 1\14_04 intercambio de variables\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+

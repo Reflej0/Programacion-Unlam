@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511386565 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\22_11 cadena\cadena.cpp
+	<iostream>
+	"cadena.h"
+
+1511385844 c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\22_11 cadena\cadena.h
+	"string.h"
+
+1511386655 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\22_11 cadena\main.cpp
+	<iostream>
+	"cadena.h"
+

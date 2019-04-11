@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1504533314 source:c:\users\laboratorios\desktop\ejercicio 12\ejercicio12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio12.h"
+
+1504478742 c:\users\laboratorios\desktop\ejercicio 12\ejercicio12.h
+
+1504478742 source:c:\users\laboratorios\desktop\ejercicio 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio12.h"
+
+1504381547 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio12.h"
+
+1504381109 c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 12\ejercicio12.h
+
+1504381744 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 12\ejercicio12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio12.h"
+

@@ -1,0 +1,7 @@
+Cola.o    _crear_cola_res
+Cola.o    _poner_en_cola_res
+Cola.o    _sacar_de_cola_res
+Cola.o    _frente_de_cola_res
+Cola.o    _cola_vacia_res
+Cola.o    _cola_llena_res
+Cola.o    _vaciar_cola_res

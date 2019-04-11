@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1482087121 source:c:\users\mery\desktop\entregableparte1 (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"propialibreria.h"
+
+1450632906 c:\users\mery\desktop\entregableparte1 (1)\main.h
+	"funciones.h"
+
+1450631834 c:\users\mery\desktop\entregableparte1 (1)\funciones.h
+	"main.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1482086796 c:\users\mery\desktop\entregableparte1 (1)\propialibreria.h
+	"funciones.h"
+
+1482089347 source:c:\users\mery\desktop\entregableparte1 (1)\propialibreria.c
+	"funciones.h"
+	"propialibreria.h"
+
+1482087121 source:c:\users\mery\google drive\programacion\modelo parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"propialibreria.h"
+
+1450632906 c:\users\mery\google drive\programacion\modelo parcial 2\main.h
+	"funciones.h"
+
+1450631834 c:\users\mery\google drive\programacion\modelo parcial 2\funciones.h
+	"main.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1482086796 c:\users\mery\google drive\programacion\modelo parcial 2\propialibreria.h
+	"funciones.h"
+
+1482172043 source:c:\users\mery\google drive\programacion\modelo parcial 2\propialibreria.c
+	"funciones.h"
+	"propialibreria.h"
+

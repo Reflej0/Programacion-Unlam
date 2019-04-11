@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1505139349 source:c:\users\laboratorios\desktop\seleccion_enteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"seleccion_enteros.h"
+
+1505139296 c:\users\laboratorios\desktop\seleccion_enteros\seleccion_enteros.h
+
+1505139294 source:c:\users\laboratorios\desktop\seleccion_enteros\seleccion_enteros.c
+	<stdio.h>
+	<stdlib.h>
+	"seleccion_enteros.h"
+
+1505173765 source:c:\users\juanjo\desktop\unlam\programacion\sin clasificacion\seleccion_floats\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"seleccion_floats.h"
+
+1505139296 c:\users\juanjo\desktop\unlam\programacion\sin clasificacion\seleccion_floats\seleccion_floats.h
+
+1505173821 source:c:\users\juanjo\desktop\unlam\programacion\sin clasificacion\seleccion_floats\seleccion_floats.c
+	<stdio.h>
+	<stdlib.h>
+	"seleccion_floats.h"
+

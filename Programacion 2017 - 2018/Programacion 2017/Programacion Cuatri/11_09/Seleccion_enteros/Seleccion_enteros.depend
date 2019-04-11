@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1505139349 source:c:\users\laboratorios\desktop\seleccion_enteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"seleccion_enteros.h"
+
+1505139296 c:\users\laboratorios\desktop\seleccion_enteros\seleccion_enteros.h
+
+1505139294 source:c:\users\laboratorios\desktop\seleccion_enteros\seleccion_enteros.c
+	<stdio.h>
+	<stdlib.h>
+	"seleccion_enteros.h"
+

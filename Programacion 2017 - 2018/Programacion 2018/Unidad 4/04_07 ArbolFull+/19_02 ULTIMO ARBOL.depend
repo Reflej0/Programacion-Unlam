@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1519056257 source:c:\users\juanjo\desktop\final verano\19_02 ultimo arbol\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1519053403 c:\users\juanjo\desktop\final verano\19_02 ultimo arbol\arbol.h
+
+1519056266 source:c:\users\juanjo\desktop\final verano\19_02 ultimo arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1530413565 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\29_06 arbol full\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1530724358 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\29_06 arbol full\arbol.h
+
+1530724266 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\29_06 arbol full\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1530724358 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 4\29_06 arbol full\arbol_renata_04_07.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+

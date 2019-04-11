@@ -1,0 +1,162 @@
+01/12/2015 23:15:41,005: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:15:41,015: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129969/4' -o s
+
+01/12/2015 23:15:41,017: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:41,019: Login -que locura-
+
+01/12/2015 23:15:41,027: -que locura- 'Facturas' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:41,039: Query -que locura-
+
+01/12/2015 23:15:41,045: Searching for -que locura-s in 'Facturas' ...
+
+01/12/2015 23:15:41,051: -que locura- 'where factura = '70002-00129969/4''
+
+01/12/2015 23:15:41,055: Search -que locura-
+
+01/12/2015 23:15:41,061: 1 -que locura-(s) have been queried. Retrieving 1 -que locura-(s).
+
+01/12/2015 23:15:41,067: (1): Retrieving -que locura- for userid 'admin' ...
+
+01/12/2015 23:15:41,081: -que locura- -que locura-ly -que locura- '-que locura-\s.0.Facturas.Facturas.out'
+
+01/12/2015 23:15:41,083: arsdoc completed.
+
+01/12/2015 23:15:41,119: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:15:41,121: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129970/2' -o s
+
+01/12/2015 23:15:41,123: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:41,133: Login -que locura-
+
+01/12/2015 23:15:41,137: -que locura- 'Facturas' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:41,143: Query -que locura-
+
+01/12/2015 23:15:41,153: Searching for -que locura-s in 'Facturas' ...
+
+01/12/2015 23:15:41,159: -que locura- 'where factura = '70002-00129970/2''
+
+01/12/2015 23:15:41,163: Search -que locura-
+
+01/12/2015 23:15:41,169: 1 -que locura-(s) have been queried. Retrieving 1 -que locura-(s).
+
+01/12/2015 23:15:41,179: (1): Retrieving -que locura- for userid 'admin' ...
+
+01/12/2015 23:15:41,197: -que locura- -que locura-ly -que locura- '-que locura-\s.0.Facturas.Facturas.out'
+
+01/12/2015 23:15:41,201: arsdoc completed.
+
+01/12/2015 23:15:41,243: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:15:41,249: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+
+01/12/2015 23:15:41,261: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:41,263: Login -que locura-
+
+01/12/2015 23:15:41,271: -que locura- 'Facturas' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:41,277: Query -que locura-
+
+01/12/2015 23:15:41,289: Searching for -que locura-s in 'Facturas' ...
+
+01/12/2015 23:15:41,299: -que locura- 'where factura = '70002-00129971/7''
+
+01/12/2015 23:15:41,305: Search un-que locura-
+
+01/12/2015 23:15:41,313: Connection cannot be established for the ARCHIVE server
+
+01/12/2015 23:15:41,317: arsdoc completed.
+
+01/12/2015 23:15:46,327: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:15:46,329: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+
+01/12/2015 23:15:46,339: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:46,347: Login un-que locura-
+
+01/12/2015 23:15:46,355: Connection cannot be established for the ARCHIVE server
+
+01/12/2015 23:15:46,363: arsdoc completed.
+
+01/12/2015 23:15:56,387: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:15:56,399: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+
+01/12/2015 23:15:56,405: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:15:56,409: Login un-que locura-
+
+01/12/2015 23:15:56,421: Connection cannot be established for the ARCHIVE server
+
+01/12/2015 23:15:56,425: arsdoc completed.
+
+01/12/2015 23:16:16,443: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:16:16,449: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+
+01/12/2015 23:16:16,455: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:16:16,459: Login un-que locura-
+
+01/12/2015 23:16:16,461: Connection cannot be established for the ARCHIVE server
+
+01/12/2015 23:16:16,465: arsdoc completed.
+
+01/12/2015 23:16:56,485: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:16:56,493: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+
+01/12/2015 23:16:56,501: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:16:57,503: Login -que locura-
+
+01/12/2015 23:16:57,505: -que locura- 'Facturas' on server 'ARCHIVE' ...
+
+01/12/2015 23:16:57,517: Query -que locura-
+
+01/12/2015 23:16:57,525: Searching for -que locura-s in 'Facturas' ...
+
+01/12/2015 23:16:57,533: -que locura- 'where factura = '70002-00129971/7''
+
+01/12/2015 23:16:57,537: Search -que locura-
+
+01/12/2015 23:16:57,543: 1 -que locura-(s) have been queried. Retrieving 1 -que locura-(s).
+
+01/12/2015 23:16:57,553: (1): Retrieving -que locura- for userid 'admin' ...
+
+01/12/2015 23:16:57,557: -que locura- -que locura-ly -que locura- '-que locura-\s.0.Facturas.Facturas.out'
+
+01/12/2015 23:16:57,565: arsdoc completed.
+
+01/12/2015 23:16:57,593: Starting arsdoc.  Version:  8.4.0.3
+
+01/12/2015 23:16:57,599: arsdoc get -h ARCHIVE -u admin -G Facturas -d -que locura- -g -N -c -P -v -i where factura = '70002-00129972/7' -o s
+
+01/12/2015 23:16:57,611: -que locura- login for userid 'admin' on server 'ARCHIVE' ...
+
+01/12/2015 23:16:57,621: Login -que locura-
+
+01/12/2015 23:16:57,627: -que locura- 'Facturas' on server 'ARCHIVE' ...
+
+01/12/2015 23:16:57,631: Query -que locura-
+
+01/12/2015 23:16:57,643: Searching for -que locura-s in 'Facturas' ...
+
+01/12/2015 23:16:57,655: -que locura- 'where factura = '70002-00129972/7''
+
+01/12/2015 23:16:57,663: Search -que locura-
+
+01/12/2015 23:16:57,675: 1 -que locura-(s) have been queried. Retrieving 1 -que locura-(s).
+
+01/12/2015 23:16:57,677: (1): Retrieving -que locura- for userid 'admin' ...
+
+01/12/2015 23:16:57,689: -que locura- -que locura-ly -que locura- '-que locura-\s.0.Facturas.Facturas.out'
+
+01/12/2015 23:16:57,693: arsdoc completed.
+

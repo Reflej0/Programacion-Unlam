@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503236359 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio2.h"
+
+1503236642 c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 2\ejercicio2.h
+
+1503236624 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 2\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio2.h"
+

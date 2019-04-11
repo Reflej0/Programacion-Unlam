@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508184415 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\lista dinámica\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1508180982 c:\users\juanjo\desktop\unlam\programacion\pruebas\lista dinámica\lista.h
+
+1508184615 source:c:\users\juanjo\desktop\unlam\programacion\pruebas\lista dinámica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

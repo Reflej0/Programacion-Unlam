@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1432214426 source:c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\1erparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Tipos.h>
+	<Utilitarias.h>
+	<Archivo.h>
+
+1432049729 c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\include\tipos.h
+	<Archivo.h>
+
+1432053731 c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\include\archivo.h
+	<stdio.h>
+
+1432212051 c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\include\utilitarias.h
+
+1432216367 source:c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\2015-05-22_entregable\1erparcial\archivo.c
+	<Cola.h>
+	<Archivo.h>
+
+1432053805 c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\2015-05-22_entregable\include\cola.h
+	<Tipos.h>
+
+1432049729 c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\2015-05-22_entregable\include\tipos.h
+	<Archivo.h>
+
+1432053731 c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\2015-05-22_entregable\include\archivo.h
+	<stdio.h>
+
+1432216045 source:c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\2015-05-22_entregable\1erparcial\cola.c
+	<Cola.h>
+
+1432219452 source:c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\2015-05-22_entregable\1erparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Tipos.h>
+	<Utilitarias.h>
+	<Archivo.h>
+
+1432212051 c:\dropbox\unlam\programacion\examenesenmaquina\2015-05-22\2015-05-22_entregable\include\utilitarias.h
+
+1432216045 source:c:\parcial_22_05_2015\2015-05-22_entregable\1erparcial\cola.c
+	<Cola.h>
+
+1432053805 c:\parcial_22_05_2015\2015-05-22_entregable\include\cola.h
+	<Tipos.h>
+
+1432049729 c:\parcial_22_05_2015\2015-05-22_entregable\include\tipos.h
+	<Archivo.h>
+
+1432053731 c:\parcial_22_05_2015\2015-05-22_entregable\include\archivo.h
+	<stdio.h>
+
+1432331133 source:c:\parcial_22_05_2015\2015-05-22_entregable\1erparcial\archivo.c
+	<Cola.h>
+	<Archivo.h>
+
+1432330848 source:c:\parcial_22_05_2015\2015-05-22_entregable\1erparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Tipos.h>
+	<Utilitarias.h>
+	<Archivo.h>
+
+1432212051 c:\parcial_22_05_2015\2015-05-22_entregable\include\utilitarias.h
+
+1508275502 source:c:\users\juanjo\desktop\unlam\programacion\2015-05-22 pan\1erparcial\archivo.c
+	<Cola.h>
+	<Archivo.h>
+	<string.h>
+
+1432053806 c:\users\juanjo\desktop\unlam\programacion\2015-05-22 pan\include\cola.h
+	<Tipos.h>
+
+1508270537 c:\users\juanjo\desktop\unlam\programacion\2015-05-22 pan\include\tipos.h
+	<Archivo.h>
+
+1508270422 c:\users\juanjo\desktop\unlam\programacion\2015-05-22 pan\include\archivo.h
+	<stdio.h>
+
+1508270271 source:c:\users\juanjo\desktop\unlam\programacion\2015-05-22 pan\1erparcial\cola.c
+	<Cola.h>
+
+1508275671 source:c:\users\juanjo\desktop\unlam\programacion\2015-05-22 pan\1erparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Tipos.h>
+	<Utilitarias.h>
+	<Archivo.h>
+
+1432212052 c:\users\juanjo\desktop\unlam\programacion\2015-05-22 pan\include\utilitarias.h
+

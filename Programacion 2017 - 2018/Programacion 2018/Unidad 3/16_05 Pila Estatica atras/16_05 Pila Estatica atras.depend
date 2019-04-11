@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1526524655 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\16_05 pila estatica atras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1526524353 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\16_05 pila estatica atras\pila.h
+
+1526525710 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\16_05 pila estatica atras\pila.c
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+

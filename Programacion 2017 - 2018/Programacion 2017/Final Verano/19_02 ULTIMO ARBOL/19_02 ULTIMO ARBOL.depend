@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519056257 source:c:\users\juanjo\desktop\final verano\19_02 ultimo arbol\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1519053403 c:\users\juanjo\desktop\final verano\19_02 ultimo arbol\arbol.h
+
+1519056266 source:c:\users\juanjo\desktop\final verano\19_02 ultimo arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+

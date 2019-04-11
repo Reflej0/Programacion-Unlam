@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1530981962 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista circular\auxiliares_lista.c
+	<stdio.h>
+	"lista.h"
+	"auxiliares_lista.h"
+
+1530987935 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista circular\lista.h
+
+1530981119 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista circular\auxiliares_lista.h
+
+1530988893 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista circular\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1530988866 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"auxiliares_lista.h"
+

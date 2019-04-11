@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1512396379 source:c:\users\juanjo\desktop\estudio final prog\04_12 ej13\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1512395955 c:\users\juanjo\desktop\estudio final prog\04_12 ej13\funciones.h
+
+1512396289 source:c:\users\juanjo\desktop\estudio final prog\04_12 ej13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1516462608 source:c:\users\juanjo\desktop\final verano\20_01 actualizar_por_merge\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1512395955 c:\users\juanjo\desktop\final verano\20_01 actualizar_por_merge\funciones.h
+
+1516462617 source:c:\users\juanjo\desktop\final verano\20_01 actualizar_por_merge\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

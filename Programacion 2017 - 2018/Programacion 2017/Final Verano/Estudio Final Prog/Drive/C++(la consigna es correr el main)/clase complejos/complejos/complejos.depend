@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1478809316 source:e:\clase complejos\complejos\complejos.cpp
+	"complejos.h"
+
+1478809168 e:\clase complejos\complejos\complejos.h
+	<iostream>
+
+1478807832 source:e:\clase complejos\complejos\main.cpp
+	"complejos.h"
+
+1478809316 source:k:\practica parcial 2\clase complejos\complejos\complejos.cpp
+	"complejos.h"
+
+1478809168 k:\practica parcial 2\clase complejos\complejos\complejos.h
+	<iostream>
+
+1478807832 source:k:\practica parcial 2\clase complejos\complejos\main.cpp
+	"complejos.h"
+

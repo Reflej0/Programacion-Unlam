@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1477676092 source:c:\users\laboratorios.unlmlab.000\desktop\1er parcial\arbol\estructarbol.c
+	"EstructArbol.h"
+
+1477681583 c:\users\laboratorios.unlmlab.000\desktop\1er parcial\arbol\estructarbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477681201 source:c:\users\laboratorios.unlmlab.000\desktop\1er parcial\arbol\main.c
+	"EstructArbol.h"
+
+1478894844 source:e:\arbol\main.c
+	"EstructArbol.h"
+
+1478895050 e:\arbol\estructarbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1478895050 source:e:\arbol\estructarbol.c
+	"EstructArbol.h"
+
+1477840488 source:f:\arbol\estructarbol.c
+	"EstructArbol.h"
+
+1477840222 f:\arbol\estructarbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1478739152 source:k:\arbol\estructarbol.c
+	"EstructArbol.h"
+
+1478726868 k:\arbol\estructarbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1478739060 source:k:\arbol\main.c
+	"EstructArbol.h"
+

@@ -1,0 +1,4 @@
+Lopez               Jose Mario          10/10/1995           +45678.22
+Van Der Tich        Maria               1/13/1998            +4532.00
+Rodriguez           Pedro               20/12/1990           +45678.22
+Perez A             Carolina A          13/11/1991           +10245.30

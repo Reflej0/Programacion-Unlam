@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503783787 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\dia de la semana\dia_semana.c
+	<stdio.h>
+	<stdlib.h>
+	"dia_semana.h"
+
+1503783230 c:\users\juanjo\desktop\unlam\programacion\tp 2\dia de la semana\dia_semana.h
+
+1503783247 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\dia de la semana\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dia_semana.h"
+

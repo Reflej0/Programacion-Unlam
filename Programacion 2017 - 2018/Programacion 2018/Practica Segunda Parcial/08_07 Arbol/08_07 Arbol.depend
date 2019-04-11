@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1531063503 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 arbol\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"auxiliares_arbol.h"
+	"arbol.h"
+
+1531056602 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 arbol\auxiliares_arbol.h
+
+1531063276 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 arbol\arbol.h
+
+1531057065 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 arbol\auxiliares_arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"auxiliares_arbol.h"
+
+1531063525 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\08_07 arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auxiliares_arbol.h"
+	"arbol.h"
+

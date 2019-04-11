@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512315256 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\03_12 matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1512314710 c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\03_12 matrices\matriz.h
+
+1512315325 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\03_12 matrices\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+

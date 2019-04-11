@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512224588 source:c:\users\juanjo\desktop\estudio final prog\02_12 fecha\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1512224346 c:\users\juanjo\desktop\estudio final prog\02_12 fecha\fecha.h
+
+1512224563 source:c:\users\juanjo\desktop\estudio final prog\02_12 fecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+

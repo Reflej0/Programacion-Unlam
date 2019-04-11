@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1487875856 source:c:\facu\programacion2\cualquiera\ejs16\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1487865660 c:\facu\programacion2\cualquiera\ejs16\header.h
+
+1487865709 source:c:\facu\programacion2\cualquiera\ejs16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

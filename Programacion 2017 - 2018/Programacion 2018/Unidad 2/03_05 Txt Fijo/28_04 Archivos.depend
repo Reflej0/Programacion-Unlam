@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1524946206 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\28_04 archivos\archivo.c
+	<stdio.h>
+	"archivo.h"
+	"estructuras.h"
+
+1524937443 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\28_04 archivos\archivo.h
+
+1524946020 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\28_04 archivos\estructuras.h
+	"fechas.h"
+
+1523324115 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\28_04 archivos\fechas.h
+
+1523324177 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\28_04 archivos\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1524945864 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\28_04 archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivo.h"
+
+1523324177 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\03_05 txt fijo\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1523324115 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\03_05 txt fijo\fechas.h
+
+1524946423 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\03_05 txt fijo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivo.h"
+
+1524937443 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\03_05 txt fijo\archivo.h
+
+1525400839 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\03_05 txt fijo\archivo.c
+	<stdio.h>
+	"archivo.h"
+	"estructuras.h"
+
+1524946020 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\03_05 txt fijo\estructuras.h
+	"fechas.h"
+

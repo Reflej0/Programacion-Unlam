@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1385647710 source:c:\users\analia\desktop\parcial 28-11 programacion\entregableracional\main.cpp
+	<iostream>
+	"racional.h"
+
+1385648830 c:\users\analia\desktop\parcial 28-11 programacion\entregableracional\racional.h
+	<cmath>
+	<iostream>
+
+1385648451 source:c:\users\analia\desktop\parcial 28-11 programacion\entregableracional\racional.cpp
+	<iostream>
+	<stdlib.h>
+	"racional.h"
+

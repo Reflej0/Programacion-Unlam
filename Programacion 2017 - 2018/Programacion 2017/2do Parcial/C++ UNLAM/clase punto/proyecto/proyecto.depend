@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1404312446 source:c:\documents and settings\lab11.unlmlab\escritorio\asd\clase\punto.cpp
+	"punto.h"
+	<iostream>
+
+1404312446 c:\documents and settings\lab11.unlmlab\escritorio\asd\clase\punto.h
+	<iostream>
+
+1404312639 source:c:\documents and settings\lab11.unlmlab\escritorio\asd\proyecto\main.cpp
+	<iostream>
+	"..\\clase\\punto.h"
+
+1404312446 c:\documents and settings\lab11.unlmlab\escritorio\asd\\clase\\punto.h
+	<iostream>
+
+1405478313 source:e:\dropbox\còdigos\c++\clase punto\clase\punto.cpp
+	"punto.h"
+	<iostream>
+
+1404312446 e:\dropbox\còdigos\c++\clase punto\clase\punto.h
+	<iostream>
+
+1404312639 source:e:\dropbox\còdigos\c++\clase punto\proyecto\main.cpp
+	<iostream>
+	"..\\clase\\punto.h"
+
+1404312446 e:\dropbox\còdigos\c++\clase punto\\clase\\punto.h
+	<iostream>
+
+1404323438 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\c++ unlam\clase punto\proyecto\main.cpp
+	<iostream>
+	"..\\clase\\punto.h"
+
+1404323246 c:\users\juanjo\desktop\unlam\programacion\2do parcial\c++ unlam\clase punto\\clase\\punto.h
+	<iostream>
+

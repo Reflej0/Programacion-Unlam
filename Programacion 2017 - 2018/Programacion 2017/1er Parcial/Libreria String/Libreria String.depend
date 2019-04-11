@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505663650 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria string\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1505663649 c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria string\string.h
+
+1505663606 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria string\string.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+

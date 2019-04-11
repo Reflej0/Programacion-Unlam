@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1531608674 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\14_07 cola dinamica\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"auxiliar.h"
+	"cola.h"
+
+1531607644 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\14_07 cola dinamica\auxiliar.h
+
+1531608588 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\14_07 cola dinamica\cola.h
+
+1531608751 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\recuperatorio 1er parcial\14_07 cola dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auxiliar.h"
+	"cola.h"
+

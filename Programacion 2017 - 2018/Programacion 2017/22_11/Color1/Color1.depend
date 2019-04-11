@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511292133 source:c:\facu\programacion2\otra practica2\color1\main.cpp
+	<iostream>
+	"Color.h"
+
+1511292117 c:\facu\programacion2\otra practica2\color1\include\color.h
+	<iostream>
+	"string.h"
+
+1511292144 source:c:\facu\programacion2\otra practica2\color1\src\color.cpp
+	"Color.h"
+

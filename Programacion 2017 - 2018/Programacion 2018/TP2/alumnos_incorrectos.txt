@@ -1,0 +1,6 @@
+150|Escobar Marcelo|15/1/1990|M|21/9/2009|ECO|10|1/3/2017|R|31/12/9999
+El dni es invalido
+39125432|Gomez Micaela Laura|99/1/2010|F|1/1/2011|INF|30|30/5/2017|R|31/12/9999
+La fecha de nac. es invalida
+40123456|Di Felipe Lucas|6/8/1999|T|14/9/2011|ELE|22|1/3/2017|R|31/12/9999
+El sexo es invalido

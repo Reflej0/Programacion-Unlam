@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1532124171 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1532125312 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\fecha.h
+
+1532127135 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"header.h"
+	"fecha.h"
+
+1532126843 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\header.h
+	"fecha.h"
+
+1532126169 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\indice.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"indice.h"
+	<string.h>
+
+1532125491 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\lista.h
+	"iterador.h"
+
+1532125631 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\iterador.h
+	"def.h"
+
+1532127089 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\def.h
+	"reg_ind.h"
+
+1532125659 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\reg_ind.h
+
+1532125394 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\indice.h
+	"lista.h"
+	"reg_ind.h"
+
+1532124388 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\iterador.c
+	<stdio.h>
+	<stdlib.h>
+	"iterador.h"
+
+1532124348 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"iterador.h"
+
+1532125169 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"header.h"
+	"tp.h"
+	"indice.h"
+
+1532125680 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\tp.h
+	"header.h"
+	"indice.h"
+	"fecha.h"
+
+1532125105 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\trabajo practico 1\tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp.h"
+	"fecha.h"
+

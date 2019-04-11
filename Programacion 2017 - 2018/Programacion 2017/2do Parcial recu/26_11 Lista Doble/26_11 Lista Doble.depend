@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511705153 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 lista doble\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1511701590 c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 lista doble\lista.h
+
+1511705086 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial recu\26_11 lista doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

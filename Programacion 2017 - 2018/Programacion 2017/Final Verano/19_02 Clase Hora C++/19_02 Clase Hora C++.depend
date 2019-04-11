@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1519048407 source:c:\users\juanjo\desktop\final verano\19_02 clase hora c++\hora.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"hora.h"
+
+1519048034 c:\users\juanjo\desktop\final verano\19_02 clase hora c++\hora.h
+
+1519047881 source:c:\users\juanjo\desktop\final verano\19_02 clase hora c++\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"hora.h"
+

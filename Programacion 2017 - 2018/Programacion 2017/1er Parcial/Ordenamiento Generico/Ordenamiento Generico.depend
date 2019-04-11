@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508030451 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\ordenamiento generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+
+1508030648 c:\users\juanjo\desktop\unlam\programacion\1er parcial\ordenamiento generico\ordenamiento.h
+
+1508030641 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\ordenamiento generico\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenamiento.h"
+

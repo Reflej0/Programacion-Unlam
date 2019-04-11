@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518287010 source:c:\users\juanjo\desktop\final verano\09_02 cadenas varios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

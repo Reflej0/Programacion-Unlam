@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1524794217 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\26_04 ejercicio 13\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+
+1524793069 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\26_04 ejercicio 13\funciones.h
+
+1524793764 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 2\26_04 ejercicio 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

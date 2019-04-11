@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526132005 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\12_05 suma con pila\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+	"pila.h"
+
+1526096275 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\12_05 suma con pila\funciones.h
+	"pila.h"
+	"stdio.h"
+
+1526095786 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\12_05 suma con pila\pila.h
+
+1526096268 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\12_05 suma con pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"funciones.h"
+
+1526095707 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\unidad 3\12_05 suma con pila\pila.c
+	<stdlib.h>
+	<stdio.h>
+	"pila.h"
+

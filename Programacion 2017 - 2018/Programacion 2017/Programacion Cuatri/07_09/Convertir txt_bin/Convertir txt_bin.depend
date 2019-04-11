@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1504795288 source:c:\users\laboratorios\desktop\convertir txt_bin\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1505095947 source:c:\users\juanjo\desktop\unlam\programacion\convertir txt_bin\main.c
+	<stdio.h>
+	<stdlib.h>
+

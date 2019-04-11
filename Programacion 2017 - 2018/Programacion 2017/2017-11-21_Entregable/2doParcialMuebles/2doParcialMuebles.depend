@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1510696266 source:g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\2doparcialmuebles\arbol.c
+	<Arbol.h>
+
+1510516137 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\arbol.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+	<ListaD.h>
+
+1510598201 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\tipotda.h
+	<UtilitariasMuebles.h>
+
+1510601711 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\utilitariasmuebles.h
+
+1464182109 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\punterosafuncion.h
+
+1499375547 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\listad.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+
+1510696231 source:g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\2doparcialmuebles\lista.c
+	<ListaD.h>
+
+1510753324 source:g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\2doparcialmuebles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ListaD.h>
+	<Arbol.h>
+	<UtilitariasMuebles.h>
+	<Solucion2doPMuebles.h>
+
+1510753185 g:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\solucion2dopmuebles.h
+
+1510696266 source:g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\2doparcialmuebles\arbol.c
+	<Arbol.h>
+
+1510516137 g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\include\arbol.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+	<ListaD.h>
+
+1510598201 g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\include\tipotda.h
+	<UtilitariasMuebles.h>
+
+1510601711 g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\include\utilitariasmuebles.h
+
+1464182109 g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\include\punterosafuncion.h
+
+1499375547 g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\include\listad.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+
+1510696231 source:g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\2doparcialmuebles\lista.c
+	<ListaD.h>
+
+1510753324 source:g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\2doparcialmuebles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ListaD.h>
+	<Arbol.h>
+	<UtilitariasMuebles.h>
+	<Solucion2doPMuebles.h>
+
+1510753185 g:\dropbox\unlam\programacion\examenesenmaquina\2017-11-21\include\solucion2dopmuebles.h
+
+1510696266 source:z:\programacion\2017-11-21_entregable\2doparcialmuebles\arbol.c
+	<Arbol.h>
+
+1510516138 z:\programacion\2017-11-21_entregable\include\arbol.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+	<ListaD.h>
+
+1510598202 z:\programacion\2017-11-21_entregable\include\tipotda.h
+	<UtilitariasMuebles.h>
+
+1510601712 z:\programacion\2017-11-21_entregable\include\utilitariasmuebles.h
+
+1464182110 z:\programacion\2017-11-21_entregable\include\punterosafuncion.h
+
+1499375548 z:\programacion\2017-11-21_entregable\include\listad.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+
+1510696232 source:z:\programacion\2017-11-21_entregable\2doparcialmuebles\lista.c
+	<ListaD.h>
+
+1510753324 source:z:\programacion\2017-11-21_entregable\2doparcialmuebles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ListaD.h>
+	<Arbol.h>
+	<UtilitariasMuebles.h>
+	<Solucion2doPMuebles.h>
+
+1510753186 z:\programacion\2017-11-21_entregable\include\solucion2dopmuebles.h
+
+1511299921 source:c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\2doparcialmuebles\arbol.c
+	<Arbol.h>
+
+1510516138 c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\include\arbol.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+	<ListaD.h>
+
+1511353503 c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\include\tipotda.h
+	<UtilitariasMuebles.h>
+
+1511360059 c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\include\utilitariasmuebles.h
+
+1464182110 c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\include\punterosafuncion.h
+
+1499375548 c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\include\listad.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+
+1511361875 source:c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\2doparcialmuebles\lista.c
+	<ListaD.h>
+	"stdlib.h"
+
+1511361938 source:c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\2doparcialmuebles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ListaD.h>
+	<Arbol.h>
+	<UtilitariasMuebles.h>
+	<Solucion2doPMuebles.h>
+	"string.h"
+
+1510753186 c:\users\juanjo\desktop\unlam\programacion\2017-11-21_entregable\include\solucion2dopmuebles.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516465303 source:c:\users\juanjo\desktop\final verano\20_01 ctype.h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

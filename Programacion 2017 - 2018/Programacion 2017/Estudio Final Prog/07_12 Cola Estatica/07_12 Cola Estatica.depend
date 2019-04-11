@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512653010 source:c:\users\juanjo\desktop\estudio final prog\07_12 cola estatica\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1512652914 c:\users\juanjo\desktop\estudio final prog\07_12 cola estatica\cola.h
+
+1512653032 source:c:\users\juanjo\desktop\estudio final prog\07_12 cola estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

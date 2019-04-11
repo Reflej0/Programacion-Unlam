@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1504395114 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio14.h"
+
+1504395312 c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 14\ejercicio14.h
+
+1504395084 source:c:\users\juanjo\desktop\unlam\programacion\tp 2\ejercicio 14\ejercicio14.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio14.h"
+

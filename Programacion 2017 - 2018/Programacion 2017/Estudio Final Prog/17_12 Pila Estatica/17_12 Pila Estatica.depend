@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513524511 source:c:\users\juanjo\desktop\estudio final prog\17_12 pila estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1513524720 c:\users\juanjo\desktop\estudio final prog\17_12 pila estatica\pila.h
+
+1513524964 source:c:\users\juanjo\desktop\estudio final prog\17_12 pila estatica\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

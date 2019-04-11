@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1509646095 source:c:\facu\programacion2\_practica\_reechos2\arbol_varias_func\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1509645880 c:\facu\programacion2\_practica\_reechos2\arbol_varias_func\header.h
+
+1509647620 source:c:\facu\programacion2\_practica\_reechos2\arbol_varias_func\func.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<math.h>
+
+1509474932 source:c:\facu\programacion2\_practica\_reechos2\arbol_varias_func\eliminar_de_arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1509575898 source:c:\facu\programacion2\_practica\_reechos2\arbol_varias_func\avl_bal_comp_clase.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<math.h>
+
+1509575898 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol +\avl_bal_comp_clase.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<math.h>
+
+1509645880 c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol +\header.h
+
+1509474932 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol +\eliminar_de_arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1509649837 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol +\func.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<math.h>
+
+1509646095 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\arbol +\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518293890 source:c:\users\juanjo\desktop\final verano\10_02 matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1515359206 c:\users\juanjo\desktop\final verano\10_02 matrices\matriz.h
+
+1518293826 source:c:\users\juanjo\desktop\final verano\10_02 matrices\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+

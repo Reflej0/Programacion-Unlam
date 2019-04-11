@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1518556238 source:c:\users\juanjo\desktop\final verano\13_02 2014-07-15_entregable\2doparcialprogramacioncpp\main.cpp
+	<iostream>
+	"C:\Users\Juanjo\Desktop\Final Verano\13_02 2014-07-15_Entregable\include\Racional.h"
+
+1518559030 c:\users\juanjo\desktop\final verano\13_02 2014-07-15_entregable\include\racional.h
+	<iostream>
+
+1518559318 source:c:\users\juanjo\desktop\final verano\13_02 2014-07-15_entregable\2doparcialprogramacioncpp\racional.cpp
+	"C:\Users\Juanjo\Desktop\Final Verano\13_02 2014-07-15_Entregable\include\Racional.h"
+	<stdlib.h>
+

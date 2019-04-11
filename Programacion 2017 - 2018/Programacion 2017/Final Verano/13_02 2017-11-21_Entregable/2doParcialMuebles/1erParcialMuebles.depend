@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1508167929 source:d:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\1erparcialmuebles\lista.c
+	<Lista.h>
+
+1464182930 d:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\lista.h
+	<TipoTDA.h>
+	<PunterosAFuncion.h>
+
+1508188516 d:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\tipotda.h
+	<UtilitariasMuebles.h>
+
+1508188622 d:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\utilitariasmuebles.h
+
+1464182109 d:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\include\punterosafuncion.h
+
+1508189052 source:d:\dropbox\unlam\programacion\examenesenmaquina\bibliotecas\1erparcialmuebles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<UtilitariasMuebles.h>
+

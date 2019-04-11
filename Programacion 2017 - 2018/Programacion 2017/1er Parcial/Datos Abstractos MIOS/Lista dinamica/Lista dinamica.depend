@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507774656 source:c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\lista dinamica\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1507774159 c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\lista dinamica\lista.h
+
+1507774671 source:c:\users\juanjo\desktop\unlam\programacion\datos abstractos mios\lista dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

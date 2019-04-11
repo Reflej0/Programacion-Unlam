@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1482191016 source:c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\partedosentregable\main.cpp
+	<iostream>
+	"main.h"
+
+1481905873 c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\partedosentregable\main.h
+	<iostream>
+	"persona.h"
+
+1482191667 c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\partedosentregable\persona.h
+	<iostream>
+
+1482193547 source:c:\users\laboratorios.unlmlab.000\desktop\entregable--final-20161219\partedosentregable\persona.cpp
+	<string.h>
+	"persona.h"
+
+1482191016 source:c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\partedosentregable\main.cpp
+	<iostream>
+	"main.h"
+
+1481905873 c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\partedosentregable\main.h
+	<iostream>
+	"persona.h"
+
+1482191667 c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\partedosentregable\persona.h
+	<iostream>
+
+1482193547 source:c:\users\laboratorios.unlmlab.000\desktop\meneghini, daniel final\partedosentregable\persona.cpp
+	<string.h>
+	"persona.h"
+

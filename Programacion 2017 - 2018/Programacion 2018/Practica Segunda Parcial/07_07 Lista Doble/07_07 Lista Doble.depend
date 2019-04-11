@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1530998738 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista doble\auxiliares_lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"auxiliares_lista.h"
+
+1531004478 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista doble\lista.h
+
+1531003470 c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista doble\auxiliares_lista.h
+
+1531006514 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista doble\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1531006565 source:c:\users\juanjo\desktop\unlam\programacion\programacion 2018\practica segunda parcial\07_07 lista doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"auxiliares_lista.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511012551 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\fecha\fecha.cpp
+	"fecha.h"
+
+1511011834 c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\fecha\fecha.h
+	<iostream>
+
+1511012467 source:c:\users\juanjo\desktop\unlam\programacion\2do parcial\practicas\fecha\main.cpp
+	<iostream>
+	"fecha.h"
+

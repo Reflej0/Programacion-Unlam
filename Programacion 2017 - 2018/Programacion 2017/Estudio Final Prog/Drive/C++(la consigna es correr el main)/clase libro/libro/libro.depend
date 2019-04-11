@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1479131608 source:k:\clase libro\libro\libro.cpp
+	"libro.h"
+
+1479131608 k:\clase libro\libro\libro.h
+	<iostream>
+	<string.h>
+
+1479131630 source:k:\clase libro\libro\main.cpp
+	"libro.h"
+
+1479133110 source:k:\practica parcial 2\clase libro\libro\libro.cpp
+	"libro.h"
+
+1479163908 k:\practica parcial 2\clase libro\libro\libro.h
+	<iostream>
+	<string.h>
+
+1479131630 source:k:\practica parcial 2\clase libro\libro\main.cpp
+	"libro.h"
+

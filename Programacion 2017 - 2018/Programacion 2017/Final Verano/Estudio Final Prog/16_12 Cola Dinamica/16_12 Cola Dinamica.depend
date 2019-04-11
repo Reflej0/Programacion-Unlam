@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513449572 source:c:\users\juanjo\desktop\estudio final prog\16_12 cola dinamica\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1513448446 c:\users\juanjo\desktop\estudio final prog\16_12 cola dinamica\cola.h
+
+1513449113 source:c:\users\juanjo\desktop\estudio final prog\16_12 cola dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

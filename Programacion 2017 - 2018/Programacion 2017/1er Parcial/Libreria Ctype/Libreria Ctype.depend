@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1505664444 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria ctype\ctype.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+
+1505664492 c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria ctype\ctype.h
+
+1505664542 source:c:\users\juanjo\desktop\unlam\programacion\1er parcial\libreria ctype\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ctype.h"
+
